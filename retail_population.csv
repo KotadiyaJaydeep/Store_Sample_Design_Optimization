@@ -1,0 +1,5001 @@
+store_id,format,region,monthly_sales
+1,Convenience,East,20173
+2,Wholesale,East,1870
+3,Kirana,East,49231
+4,Convenience,East,45656
+5,Convenience,West,48487
+6,Wholesale,East,16099
+7,Kirana,North,20476
+8,Kirana,East,19908
+9,Convenience,West,71285
+10,Modern Trade,East,38382
+11,Convenience,North,34623
+12,Convenience,West,57386
+13,Convenience,West,19966
+14,Convenience,North,43615
+15,Wholesale,North,117139
+16,Kirana,North,78996
+17,Wholesale,North,43137
+18,Wholesale,North,35622
+19,Wholesale,West,48187
+20,Convenience,West,86407
+21,Modern Trade,East,82343
+22,Kirana,East,96172
+23,Modern Trade,South,40006
+24,Wholesale,East,3296
+25,Wholesale,East,111744
+26,Modern Trade,North,17066
+27,Modern Trade,North,56731
+28,Modern Trade,East,3391
+29,Wholesale,South,34074
+30,Wholesale,North,25728
+31,Kirana,East,96316
+32,Kirana,East,43539
+33,Wholesale,West,33801
+34,Modern Trade,South,47086
+35,Modern Trade,West,916
+36,Kirana,South,19571
+37,Wholesale,North,22249
+38,Kirana,South,52506
+39,Kirana,East,13821
+40,Convenience,East,38731
+41,Convenience,South,31333
+42,Convenience,South,20505
+43,Modern Trade,South,21674
+44,Wholesale,West,31110
+45,Wholesale,South,4737
+46,Wholesale,North,57935
+47,Wholesale,West,16958
+48,Convenience,West,27065
+49,Modern Trade,South,93987
+50,Modern Trade,North,58630
+51,Convenience,West,11570
+52,Modern Trade,East,634
+53,Convenience,West,48542
+54,Wholesale,South,27935
+55,Convenience,North,38905
+56,Wholesale,South,57276
+57,Wholesale,East,63670
+58,Kirana,East,23723
+59,Convenience,East,30711
+60,Kirana,South,44555
+61,Convenience,West,46686
+62,Convenience,South,38621
+63,Kirana,North,87134
+64,Kirana,West,46311
+65,Convenience,East,56687
+66,Modern Trade,South,41076
+67,Wholesale,East,13725
+68,Kirana,East,19517
+69,Wholesale,North,11091
+70,Modern Trade,West,68625
+71,Modern Trade,North,7308
+72,Modern Trade,North,29730
+73,Kirana,North,24809
+74,Modern Trade,East,24278
+75,Kirana,North,26049
+76,Modern Trade,North,98177
+77,Wholesale,West,4329
+78,Wholesale,West,79942
+79,Convenience,North,27870
+80,Wholesale,West,60818
+81,Convenience,West,35437
+82,Wholesale,North,12253
+83,Kirana,East,85107
+84,Wholesale,North,76459
+85,Convenience,West,13157
+86,Convenience,East,51194
+87,Modern Trade,South,20304
+88,Kirana,East,7665
+89,Wholesale,West,16997
+90,Modern Trade,East,81802
+91,Wholesale,North,61850
+92,Wholesale,South,26299
+93,Modern Trade,South,82061
+94,Modern Trade,South,72543
+95,Modern Trade,West,17021
+96,Modern Trade,West,95599
+97,Modern Trade,South,24607
+98,Wholesale,East,27451
+99,Modern Trade,South,4474
+100,Kirana,East,19977
+101,Convenience,East,29912
+102,Modern Trade,West,41925
+103,Modern Trade,East,12294
+104,Wholesale,South,17726
+105,Modern Trade,West,96990
+106,Modern Trade,North,69312
+107,Modern Trade,North,78139
+108,Wholesale,West,31910
+109,Modern Trade,South,42843
+110,Convenience,North,52002
+111,Wholesale,North,96054
+112,Convenience,East,7485
+113,Wholesale,East,21730
+114,Modern Trade,South,40025
+115,Convenience,West,35607
+116,Wholesale,South,17528
+117,Kirana,West,48860
+118,Modern Trade,North,22464
+119,Wholesale,East,33666
+120,Kirana,South,47321
+121,Wholesale,South,23361
+122,Kirana,West,58318
+123,Modern Trade,West,65838
+124,Convenience,South,18123
+125,Kirana,West,22330
+126,Wholesale,South,14092
+127,Modern Trade,South,33094
+128,Kirana,South,41904
+129,Wholesale,North,25241
+130,Wholesale,West,41049
+131,Wholesale,East,21838
+132,Kirana,East,22437
+133,Kirana,West,43503
+134,Kirana,South,23692
+135,Convenience,East,31730
+136,Kirana,East,44633
+137,Kirana,West,40612
+138,Kirana,East,22099
+139,Convenience,South,70451
+140,Kirana,West,50363
+141,Wholesale,South,40029
+142,Kirana,East,12364
+143,Wholesale,East,36270
+144,Wholesale,South,19636
+145,Wholesale,North,47787
+146,Convenience,East,606
+147,Convenience,North,27143
+148,Convenience,East,21282
+149,Kirana,North,58469
+150,Wholesale,North,4685
+151,Convenience,North,34522
+152,Convenience,South,49928
+153,Kirana,North,107925
+154,Convenience,North,22377
+155,Kirana,North,42432
+156,Modern Trade,East,5083
+157,Convenience,North,33190
+158,Modern Trade,East,73961
+159,Kirana,North,108614
+160,Wholesale,North,45387
+161,Convenience,South,7000
+162,Kirana,East,82014
+163,Wholesale,North,7072
+164,Wholesale,East,11213
+165,Modern Trade,East,86698
+166,Kirana,West,31354
+167,Wholesale,South,20304
+168,Convenience,South,54824
+169,Convenience,South,37758
+170,Modern Trade,West,69521
+171,Wholesale,West,39074
+172,Kirana,South,39743
+173,Convenience,West,67853
+174,Wholesale,West,31021
+175,Wholesale,West,15264
+176,Modern Trade,South,57041
+177,Convenience,South,26353
+178,Convenience,South,41423
+179,Kirana,West,3797
+180,Convenience,South,30037
+181,Kirana,West,21557
+182,Convenience,North,3640
+183,Modern Trade,West,30786
+184,Convenience,East,31605
+185,Kirana,South,43642
+186,Kirana,South,73124
+187,Modern Trade,East,65300
+188,Convenience,West,22858
+189,Convenience,North,38361
+190,Modern Trade,East,48266
+191,Convenience,East,23412
+192,Convenience,West,7823
+193,Kirana,South,28235
+194,Convenience,West,75202
+195,Convenience,East,7407
+196,Modern Trade,East,13826
+197,Modern Trade,South,16772
+198,Wholesale,South,13977
+199,Kirana,South,54994
+200,Convenience,West,19569
+201,Convenience,South,56029
+202,Wholesale,East,34492
+203,Convenience,East,5523
+204,Kirana,North,23843
+205,Wholesale,West,66636
+206,Kirana,North,37484
+207,Wholesale,East,25377
+208,Wholesale,North,75811
+209,Modern Trade,East,12546
+210,Kirana,North,20200
+211,Convenience,South,62410
+212,Convenience,North,54203
+213,Kirana,South,11537
+214,Convenience,South,47100
+215,Convenience,West,19289
+216,Kirana,South,3400
+217,Wholesale,South,25792
+218,Kirana,North,113190
+219,Wholesale,East,67425
+220,Convenience,West,32125
+221,Convenience,South,6898
+222,Convenience,West,3556
+223,Modern Trade,North,34575
+224,Wholesale,South,44897
+225,Modern Trade,North,55444
+226,Modern Trade,West,51055
+227,Kirana,North,54162
+228,Modern Trade,West,40997
+229,Kirana,North,74709
+230,Kirana,West,21520
+231,Modern Trade,East,34177
+232,Wholesale,North,5551
+233,Wholesale,North,21129
+234,Wholesale,East,66167
+235,Wholesale,East,52950
+236,Wholesale,North,1942
+237,Modern Trade,East,118746
+238,Modern Trade,South,37557
+239,Convenience,West,38093
+240,Wholesale,West,19980
+241,Modern Trade,West,23945
+242,Convenience,South,37242
+243,Wholesale,East,50845
+244,Kirana,East,42429
+245,Convenience,North,21384
+246,Modern Trade,East,15067
+247,Kirana,North,14121
+248,Kirana,South,69720
+249,Kirana,West,64083
+250,Convenience,West,47565
+251,Modern Trade,West,69377
+252,Kirana,East,30205
+253,Wholesale,North,60330
+254,Kirana,North,49341
+255,Kirana,South,61460
+256,Convenience,East,12793
+257,Convenience,South,40568
+258,Modern Trade,North,25070
+259,Wholesale,North,2599
+260,Convenience,West,77390
+261,Kirana,East,64206
+262,Modern Trade,North,43223
+263,Kirana,West,15940
+264,Kirana,East,5252
+265,Convenience,South,2543
+266,Modern Trade,East,20995
+267,Wholesale,East,54722
+268,Wholesale,North,25290
+269,Convenience,North,47986
+270,Convenience,East,49710
+271,Modern Trade,North,54162
+272,Wholesale,North,4165
+273,Wholesale,North,17286
+274,Wholesale,West,47351
+275,Kirana,West,88836
+276,Wholesale,East,72701
+277,Kirana,North,41592
+278,Modern Trade,West,77946
+279,Kirana,East,41358
+280,Modern Trade,North,7178
+281,Wholesale,South,53516
+282,Wholesale,North,74405
+283,Modern Trade,North,107514
+284,Convenience,West,20488
+285,Modern Trade,East,11503
+286,Convenience,East,60452
+287,Kirana,West,45323
+288,Kirana,North,42394
+289,Kirana,South,78683
+290,Wholesale,North,60288
+291,Kirana,North,48446
+292,Convenience,South,22788
+293,Kirana,West,56932
+294,Modern Trade,East,11025
+295,Modern Trade,West,41271
+296,Wholesale,West,32465
+297,Modern Trade,North,6785
+298,Convenience,East,45418
+299,Kirana,East,20527
+300,Wholesale,West,44621
+301,Kirana,South,14218
+302,Kirana,West,60707
+303,Convenience,South,98108
+304,Modern Trade,East,11030
+305,Modern Trade,West,14200
+306,Kirana,North,9187
+307,Wholesale,West,28106
+308,Modern Trade,East,44121
+309,Wholesale,North,54528
+310,Modern Trade,North,40673
+311,Wholesale,South,53364
+312,Convenience,North,31570
+313,Wholesale,North,20319
+314,Convenience,West,14542
+315,Convenience,East,28947
+316,Wholesale,South,14883
+317,Convenience,West,43161
+318,Kirana,North,15110
+319,Convenience,North,22260
+320,Modern Trade,South,69479
+321,Wholesale,East,74032
+322,Kirana,South,72468
+323,Wholesale,West,31981
+324,Modern Trade,South,21035
+325,Modern Trade,North,48009
+326,Modern Trade,West,15407
+327,Convenience,North,56413
+328,Convenience,East,19432
+329,Wholesale,North,27996
+330,Wholesale,North,57290
+331,Kirana,South,4957
+332,Kirana,North,20161
+333,Wholesale,West,43835
+334,Convenience,West,50811
+335,Modern Trade,East,45097
+336,Wholesale,West,27716
+337,Kirana,South,61330
+338,Convenience,East,14093
+339,Wholesale,West,13527
+340,Wholesale,South,43524
+341,Convenience,West,12633
+342,Wholesale,West,100334
+343,Convenience,North,20664
+344,Modern Trade,West,60544
+345,Convenience,West,10603
+346,Convenience,South,86641
+347,Convenience,South,33700
+348,Wholesale,North,20184
+349,Wholesale,West,26190
+350,Convenience,North,17487
+351,Wholesale,West,27934
+352,Kirana,East,11244
+353,Kirana,East,20744
+354,Wholesale,North,59746
+355,Wholesale,North,39040
+356,Convenience,North,13827
+357,Modern Trade,South,28705
+358,Wholesale,South,74604
+359,Kirana,South,22818
+360,Convenience,North,12503
+361,Wholesale,West,49505
+362,Kirana,East,2826
+363,Kirana,North,26668
+364,Modern Trade,South,79025
+365,Convenience,South,28062
+366,Convenience,North,63871
+367,Modern Trade,North,12339
+368,Modern Trade,South,27203
+369,Convenience,West,25192
+370,Convenience,South,47629
+371,Wholesale,South,35116
+372,Wholesale,North,86146
+373,Modern Trade,West,21777
+374,Wholesale,South,34797
+375,Kirana,South,25960
+376,Wholesale,East,32906
+377,Wholesale,North,30675
+378,Kirana,East,15271
+379,Modern Trade,East,57496
+380,Kirana,South,18904
+381,Wholesale,North,17764
+382,Modern Trade,West,7240
+383,Wholesale,South,21258
+384,Kirana,West,18692
+385,Kirana,West,3666
+386,Wholesale,North,27840
+387,Convenience,East,83598
+388,Convenience,North,8754
+389,Kirana,West,32449
+390,Kirana,South,27317
+391,Convenience,West,52271
+392,Convenience,South,54995
+393,Wholesale,South,125673
+394,Wholesale,North,40099
+395,Convenience,West,16613
+396,Wholesale,East,20759
+397,Wholesale,West,22585
+398,Modern Trade,West,19359
+399,Wholesale,East,97472
+400,Kirana,North,53172
+401,Wholesale,West,47335
+402,Wholesale,West,12838
+403,Convenience,South,54611
+404,Kirana,West,70814
+405,Wholesale,East,27711
+406,Wholesale,South,20555
+407,Modern Trade,North,87568
+408,Wholesale,South,18338
+409,Wholesale,East,16713
+410,Modern Trade,East,14328
+411,Convenience,South,31243
+412,Wholesale,North,40012
+413,Modern Trade,South,64423
+414,Kirana,North,48873
+415,Convenience,South,48317
+416,Kirana,East,78170
+417,Kirana,West,13708
+418,Modern Trade,West,8210
+419,Wholesale,North,50574
+420,Modern Trade,North,30120
+421,Modern Trade,North,64582
+422,Modern Trade,East,32343
+423,Modern Trade,South,19964
+424,Convenience,East,51092
+425,Wholesale,West,35476
+426,Kirana,North,32364
+427,Kirana,South,140847
+428,Wholesale,West,74213
+429,Kirana,West,55697
+430,Wholesale,West,36304
+431,Kirana,East,34015
+432,Modern Trade,North,26094
+433,Kirana,West,39072
+434,Wholesale,North,22245
+435,Wholesale,East,11094
+436,Wholesale,West,32062
+437,Wholesale,East,41424
+438,Wholesale,East,64685
+439,Convenience,North,16799
+440,Convenience,West,34219
+441,Kirana,East,48606
+442,Wholesale,West,47844
+443,Kirana,North,94286
+444,Wholesale,East,26501
+445,Wholesale,North,15565
+446,Convenience,West,35923
+447,Convenience,West,27606
+448,Modern Trade,North,23893
+449,Convenience,South,21345
+450,Modern Trade,East,41544
+451,Modern Trade,West,18935
+452,Modern Trade,West,55663
+453,Modern Trade,East,53867
+454,Modern Trade,North,44270
+455,Kirana,North,13686
+456,Convenience,North,40201
+457,Modern Trade,South,67603
+458,Wholesale,South,58426
+459,Convenience,West,52935
+460,Convenience,North,33836
+461,Modern Trade,East,32712
+462,Kirana,West,75017
+463,Modern Trade,East,41071
+464,Kirana,West,41442
+465,Wholesale,South,167082
+466,Convenience,West,26049
+467,Wholesale,South,3251
+468,Kirana,West,29128
+469,Kirana,North,30460
+470,Wholesale,East,40633
+471,Kirana,North,47528
+472,Wholesale,West,4084
+473,Convenience,West,48213
+474,Wholesale,West,31873
+475,Convenience,South,26999
+476,Wholesale,East,6775
+477,Kirana,East,85436
+478,Wholesale,West,23634
+479,Kirana,West,53424
+480,Wholesale,South,16586
+481,Wholesale,North,41915
+482,Modern Trade,North,27337
+483,Kirana,East,52306
+484,Modern Trade,South,26625
+485,Kirana,West,15919
+486,Modern Trade,East,32971
+487,Convenience,South,31742
+488,Wholesale,North,39958
+489,Kirana,South,63316
+490,Kirana,North,12900
+491,Wholesale,South,61173
+492,Kirana,East,11127
+493,Kirana,North,50932
+494,Modern Trade,East,52032
+495,Kirana,East,22641
+496,Convenience,North,17330
+497,Convenience,North,16547
+498,Wholesale,West,35326
+499,Kirana,West,54354
+500,Wholesale,West,29808
+501,Convenience,East,2793
+502,Kirana,East,21446
+503,Kirana,West,20829
+504,Wholesale,East,47305
+505,Convenience,East,49010
+506,Kirana,North,37327
+507,Wholesale,North,61249
+508,Convenience,East,64323
+509,Wholesale,West,22496
+510,Modern Trade,South,16229
+511,Kirana,West,31412
+512,Modern Trade,South,37273
+513,Convenience,West,21588
+514,Modern Trade,North,192605
+515,Modern Trade,East,82228
+516,Convenience,East,19970
+517,Wholesale,North,13402
+518,Modern Trade,South,18654
+519,Wholesale,South,65087
+520,Modern Trade,South,66140
+521,Wholesale,North,82880
+522,Convenience,South,15813
+523,Modern Trade,North,47175
+524,Convenience,West,17113
+525,Modern Trade,West,94554
+526,Convenience,North,16294
+527,Convenience,East,10723
+528,Modern Trade,West,12714
+529,Modern Trade,South,33080
+530,Modern Trade,North,53830
+531,Kirana,South,51480
+532,Wholesale,South,13221
+533,Kirana,East,24595
+534,Kirana,South,22086
+535,Convenience,East,11540
+536,Modern Trade,West,21663
+537,Wholesale,North,80596
+538,Convenience,South,10097
+539,Kirana,North,39095
+540,Modern Trade,South,81804
+541,Convenience,North,79093
+542,Modern Trade,South,97386
+543,Convenience,South,41852
+544,Modern Trade,South,46271
+545,Kirana,South,21994
+546,Wholesale,South,9882
+547,Kirana,South,29770
+548,Wholesale,South,70419
+549,Modern Trade,South,2729
+550,Convenience,South,22816
+551,Kirana,North,49424
+552,Wholesale,East,33415
+553,Kirana,South,76245
+554,Wholesale,East,65688
+555,Kirana,South,8677
+556,Wholesale,South,35518
+557,Wholesale,North,17845
+558,Modern Trade,West,17649
+559,Wholesale,West,9384
+560,Modern Trade,North,39928
+561,Wholesale,East,77287
+562,Convenience,West,42505
+563,Convenience,North,8791
+564,Convenience,North,32021
+565,Wholesale,West,48083
+566,Modern Trade,East,30249
+567,Modern Trade,North,41967
+568,Wholesale,South,19108
+569,Convenience,East,27610
+570,Convenience,East,26294
+571,Modern Trade,West,86673
+572,Convenience,West,13487
+573,Kirana,South,3275
+574,Modern Trade,North,83096
+575,Convenience,West,36414
+576,Modern Trade,West,10983
+577,Kirana,East,61884
+578,Modern Trade,West,50148
+579,Modern Trade,West,95920
+580,Modern Trade,West,38558
+581,Modern Trade,West,141099
+582,Kirana,East,30456
+583,Wholesale,South,50213
+584,Modern Trade,South,55282
+585,Modern Trade,North,23545
+586,Convenience,West,22943
+587,Modern Trade,East,56061
+588,Convenience,North,10070
+589,Wholesale,North,17742
+590,Kirana,South,29811
+591,Kirana,East,93976
+592,Wholesale,East,56087
+593,Kirana,East,35351
+594,Wholesale,South,21789
+595,Wholesale,South,118752
+596,Wholesale,South,31860
+597,Kirana,South,17727
+598,Convenience,South,133469
+599,Wholesale,West,10539
+600,Modern Trade,West,78878
+601,Kirana,East,33709
+602,Wholesale,North,55994
+603,Wholesale,East,49258
+604,Modern Trade,North,55439
+605,Convenience,South,141251
+606,Convenience,North,127569
+607,Convenience,East,18560
+608,Wholesale,East,47952
+609,Wholesale,North,5950
+610,Wholesale,West,59611
+611,Kirana,South,69342
+612,Modern Trade,South,3338
+613,Wholesale,East,32768
+614,Modern Trade,West,55924
+615,Modern Trade,North,43247
+616,Convenience,South,10755
+617,Kirana,West,11952
+618,Wholesale,South,29883
+619,Convenience,West,23543
+620,Convenience,West,25405
+621,Wholesale,East,9313
+622,Modern Trade,South,34151
+623,Convenience,North,94453
+624,Modern Trade,East,11219
+625,Kirana,East,27977
+626,Modern Trade,North,51678
+627,Kirana,East,7143
+628,Modern Trade,West,34411
+629,Convenience,West,67924
+630,Convenience,South,13698
+631,Kirana,South,36968
+632,Wholesale,North,64623
+633,Kirana,South,136592
+634,Kirana,West,35564
+635,Modern Trade,North,18095
+636,Modern Trade,North,18229
+637,Kirana,South,8763
+638,Convenience,West,99532
+639,Modern Trade,North,61965
+640,Wholesale,West,11949
+641,Modern Trade,West,17195
+642,Modern Trade,West,35122
+643,Wholesale,South,67577
+644,Kirana,East,48037
+645,Wholesale,East,44772
+646,Kirana,North,38816
+647,Kirana,West,12586
+648,Kirana,South,35471
+649,Wholesale,West,32314
+650,Kirana,West,8633
+651,Convenience,South,97896
+652,Wholesale,East,20313
+653,Convenience,West,8884
+654,Kirana,West,23292
+655,Modern Trade,East,27114
+656,Kirana,South,31568
+657,Convenience,North,26753
+658,Convenience,East,32966
+659,Wholesale,North,37347
+660,Modern Trade,North,35924
+661,Wholesale,East,44534
+662,Convenience,West,46470
+663,Kirana,North,47310
+664,Modern Trade,North,55919
+665,Kirana,South,18462
+666,Kirana,West,19048
+667,Modern Trade,North,67788
+668,Wholesale,South,23881
+669,Kirana,West,30226
+670,Convenience,East,28168
+671,Kirana,East,133387
+672,Modern Trade,South,15816
+673,Modern Trade,East,15549
+674,Modern Trade,North,33054
+675,Wholesale,West,28801
+676,Kirana,North,11839
+677,Wholesale,North,31015
+678,Wholesale,East,33749
+679,Modern Trade,North,21949
+680,Modern Trade,East,29594
+681,Wholesale,West,17207
+682,Kirana,West,11867
+683,Convenience,North,23733
+684,Wholesale,South,13675
+685,Kirana,East,9755
+686,Modern Trade,East,4729
+687,Modern Trade,North,39304
+688,Kirana,East,23086
+689,Convenience,East,68060
+690,Modern Trade,South,24686
+691,Modern Trade,South,39164
+692,Modern Trade,North,19472
+693,Kirana,South,32278
+694,Wholesale,North,4774
+695,Modern Trade,West,23445
+696,Wholesale,North,15907
+697,Convenience,West,63402
+698,Modern Trade,North,37343
+699,Modern Trade,East,57457
+700,Convenience,South,73144
+701,Modern Trade,West,21902
+702,Wholesale,North,36178
+703,Kirana,South,12521
+704,Wholesale,North,43531
+705,Kirana,South,48123
+706,Kirana,South,41425
+707,Wholesale,North,21881
+708,Wholesale,West,103914
+709,Wholesale,West,33682
+710,Wholesale,East,12591
+711,Convenience,South,51357
+712,Modern Trade,East,64689
+713,Kirana,East,12826
+714,Wholesale,North,27129
+715,Wholesale,North,8701
+716,Wholesale,North,75023
+717,Convenience,South,30769
+718,Wholesale,North,15970
+719,Wholesale,North,65258
+720,Wholesale,South,32991
+721,Modern Trade,South,59281
+722,Convenience,West,45520
+723,Wholesale,North,14098
+724,Kirana,North,21272
+725,Kirana,North,16365
+726,Kirana,West,11792
+727,Convenience,North,6501
+728,Convenience,West,117576
+729,Kirana,East,40874
+730,Wholesale,West,45316
+731,Convenience,East,70230
+732,Kirana,North,21093
+733,Kirana,East,9371
+734,Wholesale,West,55744
+735,Modern Trade,South,10961
+736,Convenience,East,54832
+737,Wholesale,East,7957
+738,Kirana,North,10204
+739,Kirana,West,19369
+740,Wholesale,East,53410
+741,Convenience,East,95034
+742,Modern Trade,East,45264
+743,Modern Trade,East,20023
+744,Kirana,South,62799
+745,Convenience,West,7704
+746,Modern Trade,North,14802
+747,Convenience,North,35430
+748,Convenience,South,57016
+749,Kirana,West,28231
+750,Modern Trade,East,25894
+751,Wholesale,South,27121
+752,Kirana,West,69807
+753,Modern Trade,East,17326
+754,Modern Trade,South,13911
+755,Modern Trade,West,26783
+756,Modern Trade,North,76413
+757,Modern Trade,North,19090
+758,Convenience,West,27054
+759,Kirana,North,7570
+760,Convenience,West,27957
+761,Wholesale,East,39437
+762,Modern Trade,West,10978
+763,Kirana,East,69895
+764,Modern Trade,South,39064
+765,Kirana,West,21672
+766,Convenience,South,39279
+767,Kirana,North,47183
+768,Wholesale,East,5514
+769,Wholesale,West,40395
+770,Kirana,South,74613
+771,Kirana,East,17114
+772,Kirana,East,22058
+773,Kirana,North,25149
+774,Wholesale,North,57459
+775,Modern Trade,East,12856
+776,Kirana,East,45645
+777,Kirana,West,25529
+778,Wholesale,East,97975
+779,Wholesale,West,26730
+780,Convenience,East,2681
+781,Kirana,North,51825
+782,Convenience,West,43998
+783,Wholesale,South,37850
+784,Wholesale,North,73249
+785,Modern Trade,West,6457
+786,Kirana,West,15002
+787,Convenience,South,32153
+788,Wholesale,West,36367
+789,Wholesale,East,28659
+790,Convenience,South,7692
+791,Modern Trade,North,22237
+792,Wholesale,North,93493
+793,Kirana,East,12285
+794,Wholesale,North,31611
+795,Kirana,West,45766
+796,Convenience,West,56311
+797,Kirana,East,51651
+798,Convenience,North,20918
+799,Kirana,North,14944
+800,Convenience,East,98488
+801,Kirana,South,60154
+802,Modern Trade,North,33936
+803,Kirana,South,81800
+804,Kirana,North,9428
+805,Modern Trade,North,2794
+806,Wholesale,North,36060
+807,Wholesale,North,37340
+808,Kirana,West,8562
+809,Modern Trade,South,58668
+810,Kirana,South,4455
+811,Convenience,North,42040
+812,Convenience,North,49122
+813,Kirana,South,35741
+814,Wholesale,West,7365
+815,Wholesale,East,72727
+816,Kirana,East,21503
+817,Kirana,South,21560
+818,Convenience,North,18166
+819,Wholesale,North,52900
+820,Kirana,West,20670
+821,Convenience,East,11217
+822,Wholesale,West,63414
+823,Modern Trade,East,31037
+824,Convenience,South,64929
+825,Wholesale,East,32817
+826,Wholesale,West,17123
+827,Convenience,West,5306
+828,Modern Trade,West,36175
+829,Convenience,South,25192
+830,Wholesale,East,54437
+831,Kirana,East,19879
+832,Kirana,West,42961
+833,Convenience,East,31807
+834,Wholesale,North,15841
+835,Kirana,North,21225
+836,Wholesale,North,9217
+837,Convenience,East,103002
+838,Kirana,South,42296
+839,Wholesale,South,8605
+840,Kirana,South,99558
+841,Convenience,South,12127
+842,Wholesale,North,19594
+843,Kirana,North,26669
+844,Convenience,West,32397
+845,Kirana,East,53431
+846,Kirana,East,3971
+847,Modern Trade,South,32788
+848,Modern Trade,North,25590
+849,Convenience,South,36659
+850,Modern Trade,West,24592
+851,Convenience,East,22014
+852,Modern Trade,East,29137
+853,Kirana,South,95969
+854,Convenience,West,22367
+855,Convenience,East,70522
+856,Kirana,West,35517
+857,Convenience,West,34292
+858,Convenience,South,36919
+859,Modern Trade,North,45661
+860,Convenience,South,23807
+861,Wholesale,North,67281
+862,Kirana,West,45742
+863,Modern Trade,North,10053
+864,Modern Trade,West,2714
+865,Wholesale,East,94035
+866,Kirana,East,37789
+867,Kirana,East,8868
+868,Modern Trade,South,22341
+869,Convenience,South,60134
+870,Modern Trade,West,27807
+871,Kirana,East,29806
+872,Wholesale,South,52655
+873,Modern Trade,East,40471
+874,Kirana,South,48133
+875,Modern Trade,North,52269
+876,Convenience,North,17545
+877,Modern Trade,East,19004
+878,Modern Trade,West,15751
+879,Kirana,South,19904
+880,Kirana,South,28916
+881,Kirana,North,30573
+882,Modern Trade,North,80143
+883,Convenience,West,39069
+884,Wholesale,West,29361
+885,Wholesale,West,12831
+886,Kirana,East,25010
+887,Kirana,North,98736
+888,Modern Trade,East,97713
+889,Wholesale,North,24764
+890,Kirana,North,6125
+891,Convenience,South,22176
+892,Convenience,North,80726
+893,Kirana,North,29072
+894,Kirana,East,52693
+895,Wholesale,North,31719
+896,Wholesale,East,8153
+897,Modern Trade,West,32585
+898,Wholesale,North,57619
+899,Convenience,North,19669
+900,Convenience,East,56579
+901,Kirana,West,34153
+902,Wholesale,South,54514
+903,Modern Trade,West,40894
+904,Convenience,East,13632
+905,Convenience,West,25215
+906,Modern Trade,East,24568
+907,Modern Trade,East,18887
+908,Convenience,South,38580
+909,Convenience,North,110409
+910,Modern Trade,East,67341
+911,Convenience,East,73479
+912,Kirana,South,17917
+913,Kirana,East,74297
+914,Modern Trade,North,91019
+915,Wholesale,South,17412
+916,Modern Trade,North,44222
+917,Modern Trade,North,45062
+918,Wholesale,South,26688
+919,Wholesale,East,36348
+920,Wholesale,North,46644
+921,Kirana,North,28110
+922,Convenience,North,65188
+923,Kirana,North,10108
+924,Convenience,South,24483
+925,Kirana,South,53427
+926,Convenience,West,102911
+927,Kirana,West,67984
+928,Wholesale,North,35797
+929,Modern Trade,East,29172
+930,Kirana,North,25604
+931,Convenience,East,25726
+932,Wholesale,North,5265
+933,Kirana,West,100166
+934,Kirana,West,30878
+935,Wholesale,East,16474
+936,Kirana,North,43730
+937,Modern Trade,East,17636
+938,Kirana,West,61020
+939,Modern Trade,North,16935
+940,Modern Trade,North,55124
+941,Wholesale,East,25308
+942,Kirana,South,39678
+943,Wholesale,East,58040
+944,Kirana,West,20873
+945,Kirana,West,57078
+946,Convenience,West,5545
+947,Kirana,West,86431
+948,Wholesale,West,63917
+949,Modern Trade,South,30066
+950,Kirana,North,71775
+951,Convenience,East,66815
+952,Wholesale,East,32201
+953,Kirana,West,31939
+954,Wholesale,East,14739
+955,Convenience,West,33524
+956,Convenience,South,7877
+957,Wholesale,South,54652
+958,Kirana,North,55470
+959,Modern Trade,South,5645
+960,Convenience,South,80998
+961,Kirana,North,19369
+962,Kirana,East,172363
+963,Modern Trade,West,38190
+964,Convenience,West,81524
+965,Convenience,East,14312
+966,Kirana,North,25264
+967,Kirana,East,20785
+968,Modern Trade,South,7725
+969,Modern Trade,North,10141
+970,Convenience,North,29175
+971,Wholesale,North,42651
+972,Convenience,West,12947
+973,Kirana,East,24037
+974,Convenience,North,17558
+975,Wholesale,North,30696
+976,Modern Trade,North,51791
+977,Wholesale,East,34863
+978,Wholesale,West,20046
+979,Wholesale,South,65326
+980,Modern Trade,West,41659
+981,Wholesale,North,35631
+982,Wholesale,West,13099
+983,Wholesale,West,60708
+984,Kirana,South,44703
+985,Wholesale,East,46371
+986,Modern Trade,East,27021
+987,Wholesale,West,23339
+988,Wholesale,West,100502
+989,Modern Trade,East,23053
+990,Wholesale,East,10777
+991,Modern Trade,South,36966
+992,Wholesale,North,31996
+993,Modern Trade,West,67332
+994,Wholesale,East,28654
+995,Wholesale,West,50641
+996,Kirana,West,84699
+997,Kirana,East,42855
+998,Wholesale,South,13712
+999,Wholesale,West,43728
+1000,Convenience,South,24372
+1001,Modern Trade,East,38834
+1002,Convenience,North,32178
+1003,Kirana,North,10556
+1004,Kirana,West,28529
+1005,Kirana,East,13015
+1006,Kirana,South,21655
+1007,Wholesale,West,60572
+1008,Kirana,East,34099
+1009,Wholesale,East,48532
+1010,Wholesale,South,36179
+1011,Kirana,West,25760
+1012,Kirana,East,38914
+1013,Modern Trade,East,6532
+1014,Convenience,East,54784
+1015,Kirana,South,16071
+1016,Modern Trade,West,46421
+1017,Modern Trade,West,24961
+1018,Convenience,West,10563
+1019,Wholesale,West,18599
+1020,Kirana,North,46591
+1021,Convenience,North,122160
+1022,Kirana,West,30647
+1023,Modern Trade,South,112835
+1024,Modern Trade,North,6513
+1025,Wholesale,East,26506
+1026,Modern Trade,North,30666
+1027,Modern Trade,East,48316
+1028,Convenience,West,19221
+1029,Kirana,North,41552
+1030,Kirana,South,27553
+1031,Convenience,North,73903
+1032,Wholesale,North,36990
+1033,Kirana,North,163166
+1034,Modern Trade,West,27725
+1035,Kirana,South,70703
+1036,Modern Trade,North,86146
+1037,Wholesale,South,1705
+1038,Convenience,West,54303
+1039,Kirana,East,26943
+1040,Convenience,North,12039
+1041,Kirana,South,74772
+1042,Modern Trade,South,20175
+1043,Convenience,West,6097
+1044,Kirana,North,37654
+1045,Modern Trade,East,82323
+1046,Convenience,South,12192
+1047,Convenience,North,59326
+1048,Kirana,East,4375
+1049,Kirana,South,86266
+1050,Kirana,South,43468
+1051,Modern Trade,East,11000
+1052,Kirana,East,55630
+1053,Convenience,West,21145
+1054,Convenience,North,14753
+1055,Kirana,North,20762
+1056,Kirana,West,51775
+1057,Wholesale,South,13913
+1058,Convenience,East,2575
+1059,Modern Trade,East,21666
+1060,Wholesale,East,76848
+1061,Kirana,South,76157
+1062,Kirana,East,20738
+1063,Convenience,East,20121
+1064,Kirana,West,19082
+1065,Modern Trade,South,18369
+1066,Convenience,North,19469
+1067,Kirana,West,39007
+1068,Convenience,West,78101
+1069,Kirana,North,13892
+1070,Kirana,West,16369
+1071,Kirana,South,42336
+1072,Modern Trade,East,53879
+1073,Modern Trade,South,7875
+1074,Convenience,North,97837
+1075,Kirana,North,25072
+1076,Kirana,West,8687
+1077,Modern Trade,South,7472
+1078,Kirana,South,6998
+1079,Modern Trade,North,69782
+1080,Kirana,South,34312
+1081,Convenience,North,70217
+1082,Kirana,South,29561
+1083,Kirana,South,68882
+1084,Wholesale,South,28989
+1085,Modern Trade,North,48171
+1086,Kirana,West,31144
+1087,Kirana,South,27628
+1088,Wholesale,North,15176
+1089,Wholesale,North,52946
+1090,Modern Trade,South,12247
+1091,Wholesale,South,52884
+1092,Convenience,West,35495
+1093,Wholesale,North,53883
+1094,Convenience,North,37824
+1095,Modern Trade,East,74070
+1096,Modern Trade,North,44868
+1097,Modern Trade,West,36062
+1098,Modern Trade,East,2174
+1099,Modern Trade,East,76113
+1100,Convenience,East,6912
+1101,Convenience,South,9538
+1102,Modern Trade,South,57481
+1103,Wholesale,North,33362
+1104,Kirana,East,7244
+1105,Modern Trade,West,20097
+1106,Wholesale,South,73409
+1107,Kirana,West,36986
+1108,Modern Trade,West,33993
+1109,Modern Trade,South,18044
+1110,Convenience,South,58911
+1111,Kirana,South,30254
+1112,Kirana,South,51438
+1113,Wholesale,East,16447
+1114,Convenience,East,122594
+1115,Convenience,East,82604
+1116,Convenience,East,36691
+1117,Convenience,North,42843
+1118,Kirana,East,20261
+1119,Kirana,South,54363
+1120,Modern Trade,West,2916
+1121,Modern Trade,East,96838
+1122,Convenience,North,52148
+1123,Convenience,South,13628
+1124,Convenience,West,95266
+1125,Modern Trade,West,115718
+1126,Wholesale,East,44542
+1127,Wholesale,West,16697
+1128,Modern Trade,East,34401
+1129,Modern Trade,East,49236
+1130,Modern Trade,South,41887
+1131,Modern Trade,South,13630
+1132,Modern Trade,North,48603
+1133,Modern Trade,South,72831
+1134,Convenience,South,10745
+1135,Convenience,East,12049
+1136,Convenience,South,19552
+1137,Convenience,East,28104
+1138,Modern Trade,East,59957
+1139,Wholesale,South,72285
+1140,Kirana,North,16055
+1141,Modern Trade,North,38757
+1142,Kirana,West,70318
+1143,Wholesale,West,127157
+1144,Convenience,South,38607
+1145,Wholesale,North,40198
+1146,Modern Trade,East,44740
+1147,Convenience,West,25784
+1148,Modern Trade,East,36435
+1149,Convenience,West,3982
+1150,Kirana,South,20356
+1151,Kirana,North,48064
+1152,Kirana,West,15218
+1153,Wholesale,North,60932
+1154,Modern Trade,East,5928
+1155,Wholesale,South,59313
+1156,Kirana,North,59203
+1157,Modern Trade,South,128641
+1158,Kirana,North,24959
+1159,Wholesale,East,33384
+1160,Wholesale,East,90643
+1161,Wholesale,South,83035
+1162,Kirana,East,67216
+1163,Modern Trade,West,42942
+1164,Modern Trade,North,89013
+1165,Kirana,East,158666
+1166,Modern Trade,West,51284
+1167,Kirana,South,34623
+1168,Modern Trade,West,55683
+1169,Convenience,South,38202
+1170,Convenience,South,26771
+1171,Wholesale,North,61112
+1172,Convenience,North,22070
+1173,Convenience,West,50542
+1174,Convenience,North,7584
+1175,Kirana,North,99705
+1176,Convenience,North,17129
+1177,Convenience,West,9363
+1178,Wholesale,East,81127
+1179,Convenience,North,91439
+1180,Convenience,North,42304
+1181,Modern Trade,West,30937
+1182,Wholesale,East,25453
+1183,Wholesale,North,40632
+1184,Wholesale,South,32303
+1185,Wholesale,West,29306
+1186,Wholesale,North,15520
+1187,Wholesale,North,11670
+1188,Kirana,South,35643
+1189,Convenience,South,39720
+1190,Wholesale,West,18018
+1191,Convenience,West,20342
+1192,Convenience,South,39649
+1193,Kirana,West,15148
+1194,Wholesale,South,68996
+1195,Modern Trade,North,49117
+1196,Kirana,South,17870
+1197,Modern Trade,South,47345
+1198,Convenience,East,15492
+1199,Convenience,South,59394
+1200,Kirana,South,16056
+1201,Kirana,East,30464
+1202,Modern Trade,West,37296
+1203,Wholesale,East,90516
+1204,Modern Trade,North,17009
+1205,Kirana,East,16389
+1206,Modern Trade,North,8111
+1207,Kirana,West,108602
+1208,Modern Trade,East,34240
+1209,Kirana,East,70137
+1210,Kirana,West,20654
+1211,Kirana,North,22328
+1212,Wholesale,East,32161
+1213,Modern Trade,North,32907
+1214,Modern Trade,East,54273
+1215,Modern Trade,South,35004
+1216,Kirana,East,24626
+1217,Modern Trade,West,109946
+1218,Modern Trade,West,15326
+1219,Kirana,North,17093
+1220,Convenience,East,15527
+1221,Kirana,North,55761
+1222,Modern Trade,North,46306
+1223,Kirana,South,29405
+1224,Convenience,South,14805
+1225,Kirana,West,37175
+1226,Modern Trade,North,61280
+1227,Convenience,West,93006
+1228,Wholesale,East,19901
+1229,Modern Trade,North,29324
+1230,Convenience,North,45983
+1231,Convenience,East,24422
+1232,Wholesale,East,9542
+1233,Kirana,West,29441
+1234,Kirana,West,10833
+1235,Modern Trade,East,64939
+1236,Wholesale,West,26052
+1237,Kirana,East,31781
+1238,Wholesale,North,17497
+1239,Kirana,North,32742
+1240,Convenience,South,78444
+1241,Kirana,North,69844
+1242,Wholesale,East,12550
+1243,Convenience,West,896
+1244,Convenience,South,29621
+1245,Convenience,West,26198
+1246,Wholesale,East,24913
+1247,Modern Trade,North,21011
+1248,Modern Trade,South,12272
+1249,Modern Trade,East,134437
+1250,Wholesale,South,108537
+1251,Convenience,South,24046
+1252,Modern Trade,North,36781
+1253,Wholesale,East,65736
+1254,Modern Trade,West,36691
+1255,Kirana,South,22481
+1256,Modern Trade,South,9721
+1257,Modern Trade,West,33650
+1258,Convenience,East,10999
+1259,Wholesale,South,74878
+1260,Convenience,South,32507
+1261,Convenience,South,48668
+1262,Convenience,East,25566
+1263,Convenience,East,59659
+1264,Convenience,West,19539
+1265,Modern Trade,East,41432
+1266,Convenience,East,24800
+1267,Convenience,North,27929
+1268,Wholesale,West,65150
+1269,Kirana,South,17377
+1270,Modern Trade,East,43533
+1271,Modern Trade,South,80935
+1272,Modern Trade,South,63531
+1273,Convenience,North,20027
+1274,Convenience,East,47909
+1275,Convenience,West,5934
+1276,Wholesale,East,66664
+1277,Kirana,South,158365
+1278,Convenience,West,41751
+1279,Kirana,East,83633
+1280,Wholesale,South,9267
+1281,Modern Trade,South,13558
+1282,Convenience,North,25489
+1283,Kirana,North,29422
+1284,Kirana,North,41944
+1285,Convenience,South,20110
+1286,Modern Trade,East,37071
+1287,Modern Trade,North,65061
+1288,Modern Trade,East,47784
+1289,Wholesale,North,24826
+1290,Kirana,West,56390
+1291,Kirana,West,23967
+1292,Kirana,North,35564
+1293,Wholesale,South,62791
+1294,Kirana,North,28816
+1295,Wholesale,North,10845
+1296,Modern Trade,South,34820
+1297,Convenience,West,63172
+1298,Kirana,East,67170
+1299,Kirana,North,13043
+1300,Modern Trade,South,54828
+1301,Convenience,North,27480
+1302,Wholesale,South,87359
+1303,Convenience,East,11070
+1304,Modern Trade,East,54109
+1305,Modern Trade,West,25157
+1306,Convenience,South,20381
+1307,Wholesale,South,64724
+1308,Wholesale,West,71751
+1309,Kirana,West,4097
+1310,Wholesale,South,65517
+1311,Convenience,West,31597
+1312,Modern Trade,East,34082
+1313,Kirana,North,10478
+1314,Kirana,East,51620
+1315,Modern Trade,West,136593
+1316,Wholesale,South,21456
+1317,Modern Trade,South,76398
+1318,Wholesale,East,33135
+1319,Modern Trade,South,22184
+1320,Convenience,West,8544
+1321,Wholesale,East,83742
+1322,Convenience,South,36286
+1323,Kirana,North,23148
+1324,Modern Trade,North,26424
+1325,Kirana,West,54544
+1326,Kirana,South,23117
+1327,Kirana,West,14687
+1328,Kirana,East,30484
+1329,Modern Trade,North,29760
+1330,Kirana,East,29250
+1331,Modern Trade,South,23371
+1332,Modern Trade,West,78176
+1333,Convenience,West,168960
+1334,Wholesale,West,13074
+1335,Wholesale,East,3323
+1336,Modern Trade,North,27620
+1337,Convenience,East,3880
+1338,Modern Trade,East,7675
+1339,Modern Trade,South,21773
+1340,Modern Trade,South,54269
+1341,Convenience,South,27369
+1342,Wholesale,North,2227
+1343,Convenience,North,27085
+1344,Kirana,South,28714
+1345,Convenience,South,29094
+1346,Convenience,North,70501
+1347,Convenience,West,62646
+1348,Convenience,North,35234
+1349,Wholesale,North,119696
+1350,Kirana,North,21723
+1351,Wholesale,South,30172
+1352,Wholesale,West,32707
+1353,Convenience,North,8446
+1354,Modern Trade,South,33235
+1355,Modern Trade,East,6826
+1356,Wholesale,East,18949
+1357,Wholesale,North,36442
+1358,Convenience,East,9939
+1359,Wholesale,West,42604
+1360,Convenience,East,16424
+1361,Modern Trade,East,24755
+1362,Modern Trade,West,48122
+1363,Kirana,North,31254
+1364,Modern Trade,North,41888
+1365,Wholesale,West,46017
+1366,Modern Trade,West,30859
+1367,Convenience,West,43660
+1368,Modern Trade,East,18675
+1369,Kirana,West,47701
+1370,Modern Trade,South,27761
+1371,Convenience,East,79546
+1372,Convenience,North,37016
+1373,Wholesale,North,21042
+1374,Modern Trade,North,48301
+1375,Convenience,East,81883
+1376,Kirana,South,22679
+1377,Wholesale,West,19593
+1378,Kirana,West,1134
+1379,Modern Trade,North,36947
+1380,Modern Trade,North,25600
+1381,Modern Trade,East,48158
+1382,Wholesale,South,48904
+1383,Convenience,West,8854
+1384,Wholesale,East,62457
+1385,Kirana,West,17208
+1386,Wholesale,North,22786
+1387,Kirana,West,42782
+1388,Wholesale,South,12255
+1389,Convenience,South,19767
+1390,Kirana,North,11181
+1391,Modern Trade,South,66229
+1392,Modern Trade,South,24437
+1393,Wholesale,East,10126
+1394,Modern Trade,West,10863
+1395,Kirana,North,58893
+1396,Modern Trade,North,15855
+1397,Convenience,North,22353
+1398,Convenience,North,34313
+1399,Wholesale,North,25850
+1400,Kirana,South,4895
+1401,Convenience,East,51901
+1402,Convenience,North,27421
+1403,Kirana,East,41537
+1404,Modern Trade,East,54627
+1405,Modern Trade,South,3605
+1406,Wholesale,North,54984
+1407,Modern Trade,South,148405
+1408,Kirana,North,44836
+1409,Convenience,South,80397
+1410,Modern Trade,East,64691
+1411,Wholesale,North,53569
+1412,Modern Trade,West,66282
+1413,Kirana,East,74109
+1414,Wholesale,West,76123
+1415,Modern Trade,East,10833
+1416,Wholesale,South,69102
+1417,Kirana,North,27105
+1418,Convenience,East,77988
+1419,Kirana,South,47700
+1420,Kirana,North,10675
+1421,Kirana,North,85306
+1422,Kirana,East,17283
+1423,Convenience,North,26040
+1424,Convenience,East,98904
+1425,Wholesale,North,37200
+1426,Modern Trade,West,25128
+1427,Convenience,South,31436
+1428,Convenience,West,24693
+1429,Modern Trade,East,58815
+1430,Convenience,West,25317
+1431,Kirana,East,32277
+1432,Kirana,North,50627
+1433,Modern Trade,North,46678
+1434,Wholesale,East,18579
+1435,Wholesale,West,59316
+1436,Modern Trade,North,21695
+1437,Modern Trade,South,13279
+1438,Kirana,North,5483
+1439,Wholesale,South,28957
+1440,Convenience,West,6923
+1441,Kirana,South,16361
+1442,Modern Trade,South,32916
+1443,Wholesale,South,73013
+1444,Convenience,South,26603
+1445,Convenience,North,8648
+1446,Kirana,South,30618
+1447,Wholesale,North,71082
+1448,Wholesale,South,26109
+1449,Modern Trade,East,81569
+1450,Wholesale,West,32772
+1451,Wholesale,South,55131
+1452,Kirana,East,39296
+1453,Wholesale,South,78915
+1454,Convenience,South,124929
+1455,Kirana,South,22616
+1456,Kirana,East,37603
+1457,Modern Trade,West,72977
+1458,Wholesale,East,40323
+1459,Modern Trade,West,5163
+1460,Convenience,South,26439
+1461,Kirana,North,40069
+1462,Kirana,South,93762
+1463,Kirana,West,36079
+1464,Convenience,East,15383
+1465,Convenience,South,40778
+1466,Modern Trade,East,87507
+1467,Modern Trade,East,19710
+1468,Modern Trade,East,21934
+1469,Wholesale,South,19974
+1470,Kirana,East,9894
+1471,Kirana,East,34865
+1472,Modern Trade,South,31817
+1473,Kirana,East,5874
+1474,Modern Trade,South,16493
+1475,Wholesale,West,38421
+1476,Wholesale,West,54216
+1477,Convenience,West,64873
+1478,Wholesale,East,57336
+1479,Modern Trade,North,33289
+1480,Wholesale,North,8276
+1481,Convenience,East,27849
+1482,Kirana,North,1915
+1483,Modern Trade,South,38559
+1484,Kirana,North,19129
+1485,Convenience,East,3479
+1486,Convenience,East,43938
+1487,Convenience,South,86803
+1488,Kirana,West,7025
+1489,Kirana,East,46587
+1490,Kirana,South,24173
+1491,Kirana,North,17269
+1492,Convenience,North,17303
+1493,Convenience,South,24168
+1494,Modern Trade,South,24095
+1495,Modern Trade,East,32274
+1496,Kirana,North,15796
+1497,Wholesale,South,18864
+1498,Wholesale,North,49744
+1499,Convenience,South,14527
+1500,Convenience,North,40427
+1501,Convenience,West,25207
+1502,Modern Trade,East,21147
+1503,Modern Trade,North,105686
+1504,Convenience,West,10128
+1505,Convenience,North,90809
+1506,Convenience,North,59805
+1507,Wholesale,West,19565
+1508,Modern Trade,North,60998
+1509,Wholesale,North,908
+1510,Wholesale,East,17985
+1511,Convenience,West,14714
+1512,Convenience,West,44318
+1513,Kirana,South,54967
+1514,Kirana,North,43798
+1515,Wholesale,East,36646
+1516,Modern Trade,North,63814
+1517,Convenience,North,57687
+1518,Convenience,South,19157
+1519,Wholesale,North,21058
+1520,Kirana,East,55419
+1521,Modern Trade,East,32031
+1522,Kirana,South,33751
+1523,Kirana,North,37172
+1524,Kirana,East,5448
+1525,Kirana,North,18413
+1526,Convenience,North,47103
+1527,Convenience,North,18279
+1528,Kirana,South,27562
+1529,Modern Trade,North,46885
+1530,Wholesale,East,66274
+1531,Modern Trade,North,71736
+1532,Modern Trade,East,74515
+1533,Modern Trade,North,29684
+1534,Kirana,East,27300
+1535,Convenience,East,11419
+1536,Modern Trade,North,87137
+1537,Kirana,North,26382
+1538,Modern Trade,East,85775
+1539,Modern Trade,West,41239
+1540,Kirana,South,68392
+1541,Convenience,West,31284
+1542,Convenience,West,50264
+1543,Wholesale,North,69987
+1544,Kirana,South,22035
+1545,Wholesale,West,74783
+1546,Wholesale,North,12979
+1547,Wholesale,West,103867
+1548,Convenience,West,37283
+1549,Kirana,North,18669
+1550,Wholesale,North,58991
+1551,Kirana,North,42659
+1552,Kirana,South,5801
+1553,Convenience,West,24179
+1554,Wholesale,North,13588
+1555,Wholesale,East,14742
+1556,Kirana,West,14261
+1557,Modern Trade,East,48584
+1558,Convenience,South,62164
+1559,Convenience,North,17204
+1560,Convenience,East,4134
+1561,Convenience,South,120085
+1562,Wholesale,North,37584
+1563,Wholesale,East,59295
+1564,Modern Trade,East,28537
+1565,Convenience,South,3070
+1566,Convenience,North,45194
+1567,Kirana,North,96694
+1568,Wholesale,East,19584
+1569,Convenience,East,2603
+1570,Modern Trade,East,11354
+1571,Modern Trade,North,61304
+1572,Wholesale,South,42419
+1573,Modern Trade,South,74994
+1574,Modern Trade,North,33561
+1575,Wholesale,West,54313
+1576,Convenience,South,23598
+1577,Convenience,East,12249
+1578,Modern Trade,West,54419
+1579,Modern Trade,West,62000
+1580,Convenience,South,19984
+1581,Wholesale,West,90959
+1582,Modern Trade,West,92646
+1583,Kirana,South,14345
+1584,Wholesale,South,14972
+1585,Modern Trade,West,15632
+1586,Modern Trade,East,30172
+1587,Kirana,North,24545
+1588,Kirana,West,9719
+1589,Convenience,West,16050
+1590,Wholesale,East,3161
+1591,Wholesale,West,3988
+1592,Convenience,West,7851
+1593,Wholesale,North,115758
+1594,Wholesale,North,106644
+1595,Wholesale,North,56664
+1596,Wholesale,South,20164
+1597,Wholesale,South,7710
+1598,Kirana,North,33017
+1599,Wholesale,North,46108
+1600,Kirana,South,17464
+1601,Wholesale,East,44325
+1602,Convenience,West,11248
+1603,Modern Trade,West,20524
+1604,Kirana,North,27106
+1605,Wholesale,East,108742
+1606,Convenience,South,15837
+1607,Modern Trade,North,45942
+1608,Kirana,East,13698
+1609,Modern Trade,East,11966
+1610,Convenience,East,17395
+1611,Kirana,South,33913
+1612,Modern Trade,South,98968
+1613,Wholesale,West,19784
+1614,Kirana,West,62331
+1615,Modern Trade,East,112318
+1616,Convenience,East,40412
+1617,Convenience,South,70344
+1618,Kirana,West,16553
+1619,Modern Trade,East,45050
+1620,Kirana,West,53678
+1621,Kirana,West,9245
+1622,Modern Trade,East,15095
+1623,Modern Trade,South,26154
+1624,Wholesale,East,17832
+1625,Modern Trade,East,28687
+1626,Convenience,West,7899
+1627,Kirana,East,105065
+1628,Kirana,South,66838
+1629,Convenience,East,232700
+1630,Modern Trade,South,10420
+1631,Convenience,South,46349
+1632,Convenience,West,17981
+1633,Wholesale,North,11898
+1634,Convenience,North,64243
+1635,Kirana,West,34774
+1636,Convenience,East,24723
+1637,Kirana,West,41323
+1638,Kirana,South,15700
+1639,Kirana,North,15221
+1640,Modern Trade,West,18564
+1641,Wholesale,East,73298
+1642,Kirana,West,69245
+1643,Kirana,North,9934
+1644,Modern Trade,West,102060
+1645,Kirana,West,32526
+1646,Convenience,North,45789
+1647,Convenience,South,18033
+1648,Wholesale,South,33881
+1649,Kirana,North,11828
+1650,Modern Trade,West,16939
+1651,Convenience,North,60571
+1652,Modern Trade,South,61568
+1653,Modern Trade,East,47346
+1654,Convenience,West,23425
+1655,Modern Trade,South,9761
+1656,Convenience,West,79426
+1657,Modern Trade,North,64784
+1658,Convenience,East,4832
+1659,Kirana,North,62316
+1660,Wholesale,East,24710
+1661,Convenience,West,54962
+1662,Convenience,West,8012
+1663,Wholesale,North,18881
+1664,Convenience,East,35834
+1665,Convenience,East,105093
+1666,Modern Trade,West,35905
+1667,Wholesale,North,71278
+1668,Kirana,East,39692
+1669,Convenience,West,38628
+1670,Wholesale,South,49226
+1671,Modern Trade,North,31847
+1672,Kirana,South,59548
+1673,Wholesale,North,12690
+1674,Kirana,West,32020
+1675,Kirana,East,111083
+1676,Kirana,East,73328
+1677,Convenience,East,42327
+1678,Convenience,North,66485
+1679,Modern Trade,West,92028
+1680,Modern Trade,South,4070
+1681,Wholesale,West,26683
+1682,Modern Trade,South,18824
+1683,Kirana,North,8653
+1684,Kirana,North,121723
+1685,Convenience,South,50940
+1686,Kirana,South,64866
+1687,Wholesale,South,19554
+1688,Kirana,West,26219
+1689,Kirana,South,33202
+1690,Wholesale,North,44726
+1691,Modern Trade,North,57995
+1692,Modern Trade,East,55403
+1693,Wholesale,South,27655
+1694,Convenience,West,94471
+1695,Kirana,West,81914
+1696,Wholesale,West,41437
+1697,Kirana,East,34171
+1698,Convenience,North,25973
+1699,Kirana,West,44916
+1700,Wholesale,North,78988
+1701,Kirana,East,34779
+1702,Modern Trade,South,20925
+1703,Convenience,South,34183
+1704,Convenience,South,42009
+1705,Convenience,West,11877
+1706,Wholesale,South,9061
+1707,Convenience,West,21400
+1708,Modern Trade,East,94338
+1709,Wholesale,East,75974
+1710,Modern Trade,West,6995
+1711,Kirana,North,14590
+1712,Kirana,South,57295
+1713,Kirana,South,23748
+1714,Kirana,South,46703
+1715,Modern Trade,West,7453
+1716,Wholesale,East,33649
+1717,Wholesale,South,30992
+1718,Convenience,East,65086
+1719,Modern Trade,South,44733
+1720,Kirana,South,37163
+1721,Modern Trade,West,5678
+1722,Convenience,North,113468
+1723,Convenience,West,54403
+1724,Modern Trade,South,18134
+1725,Modern Trade,South,36450
+1726,Modern Trade,North,24361
+1727,Wholesale,East,28298
+1728,Kirana,East,75167
+1729,Modern Trade,South,14524
+1730,Modern Trade,East,56027
+1731,Modern Trade,South,77350
+1732,Convenience,North,49941
+1733,Convenience,North,29454
+1734,Wholesale,South,16988
+1735,Kirana,North,19176
+1736,Wholesale,West,37027
+1737,Kirana,West,34722
+1738,Convenience,North,61038
+1739,Convenience,South,8056
+1740,Convenience,South,74522
+1741,Wholesale,North,163745
+1742,Modern Trade,East,31714
+1743,Modern Trade,West,27969
+1744,Convenience,East,30151
+1745,Modern Trade,South,36054
+1746,Modern Trade,South,26220
+1747,Wholesale,East,4177
+1748,Kirana,North,29624
+1749,Convenience,East,37732
+1750,Convenience,East,80077
+1751,Wholesale,West,14348
+1752,Wholesale,West,102184
+1753,Modern Trade,East,24766
+1754,Convenience,East,16001
+1755,Kirana,South,54413
+1756,Wholesale,West,22455
+1757,Kirana,West,32195
+1758,Kirana,South,33933
+1759,Convenience,North,52212
+1760,Convenience,West,31450
+1761,Wholesale,West,28792
+1762,Convenience,North,24235
+1763,Convenience,West,48515
+1764,Convenience,West,21475
+1765,Kirana,North,81896
+1766,Wholesale,North,34226
+1767,Modern Trade,East,6044
+1768,Kirana,South,41987
+1769,Convenience,South,47188
+1770,Kirana,North,82524
+1771,Convenience,North,17683
+1772,Convenience,West,15434
+1773,Kirana,East,53460
+1774,Wholesale,East,73489
+1775,Convenience,North,17059
+1776,Wholesale,West,40868
+1777,Modern Trade,West,31876
+1778,Convenience,South,17604
+1779,Wholesale,South,30427
+1780,Wholesale,West,69938
+1781,Modern Trade,South,34339
+1782,Wholesale,North,29171
+1783,Wholesale,West,51475
+1784,Modern Trade,South,74338
+1785,Convenience,East,14113
+1786,Wholesale,West,42129
+1787,Wholesale,West,24898
+1788,Wholesale,East,34457
+1789,Kirana,North,54399
+1790,Modern Trade,East,26544
+1791,Kirana,West,31263
+1792,Modern Trade,North,66034
+1793,Convenience,South,46360
+1794,Convenience,South,30711
+1795,Wholesale,South,37071
+1796,Modern Trade,West,35041
+1797,Convenience,East,5539
+1798,Modern Trade,North,37549
+1799,Convenience,South,10115
+1800,Kirana,North,72920
+1801,Convenience,West,9877
+1802,Kirana,South,23891
+1803,Convenience,West,20277
+1804,Wholesale,East,91771
+1805,Kirana,West,70852
+1806,Convenience,West,2343
+1807,Wholesale,East,33023
+1808,Kirana,North,11962
+1809,Wholesale,East,37656
+1810,Modern Trade,East,53523
+1811,Modern Trade,West,40071
+1812,Kirana,North,55841
+1813,Convenience,South,27127
+1814,Kirana,East,41026
+1815,Wholesale,North,54447
+1816,Convenience,East,23141
+1817,Modern Trade,East,15791
+1818,Convenience,East,19332
+1819,Modern Trade,East,30387
+1820,Convenience,West,33723
+1821,Convenience,North,42792
+1822,Convenience,North,17695
+1823,Wholesale,North,55564
+1824,Wholesale,East,105855
+1825,Kirana,West,20406
+1826,Kirana,East,145210
+1827,Modern Trade,East,115261
+1828,Wholesale,North,33641
+1829,Modern Trade,East,29677
+1830,Kirana,South,19091
+1831,Modern Trade,East,61375
+1832,Kirana,South,35400
+1833,Wholesale,East,38285
+1834,Convenience,West,16099
+1835,Wholesale,West,62584
+1836,Modern Trade,North,27836
+1837,Modern Trade,East,12844
+1838,Wholesale,South,31627
+1839,Wholesale,South,17061
+1840,Kirana,East,82604
+1841,Modern Trade,South,114277
+1842,Modern Trade,West,32333
+1843,Wholesale,South,69516
+1844,Convenience,North,68345
+1845,Modern Trade,West,445
+1846,Convenience,West,19358
+1847,Wholesale,West,36590
+1848,Wholesale,East,23644
+1849,Kirana,East,18062
+1850,Modern Trade,West,71485
+1851,Convenience,East,22877
+1852,Kirana,South,42875
+1853,Modern Trade,East,67282
+1854,Kirana,East,85875
+1855,Wholesale,West,12906
+1856,Modern Trade,North,14004
+1857,Kirana,North,39456
+1858,Kirana,North,4102
+1859,Convenience,South,14652
+1860,Kirana,East,76849
+1861,Modern Trade,North,52576
+1862,Modern Trade,West,30387
+1863,Convenience,North,47152
+1864,Modern Trade,North,55144
+1865,Wholesale,East,8937
+1866,Modern Trade,East,22538
+1867,Modern Trade,East,83904
+1868,Kirana,South,39975
+1869,Kirana,South,41737
+1870,Modern Trade,North,32398
+1871,Convenience,East,5585
+1872,Kirana,North,20124
+1873,Convenience,West,45141
+1874,Modern Trade,West,22986
+1875,Modern Trade,East,13353
+1876,Wholesale,East,15070
+1877,Kirana,West,85057
+1878,Modern Trade,East,21962
+1879,Wholesale,South,73976
+1880,Kirana,South,41879
+1881,Modern Trade,East,27716
+1882,Modern Trade,West,17314
+1883,Kirana,North,53572
+1884,Kirana,East,67960
+1885,Kirana,East,57215
+1886,Modern Trade,North,9936
+1887,Modern Trade,East,21911
+1888,Wholesale,North,24172
+1889,Convenience,West,4345
+1890,Kirana,South,46815
+1891,Modern Trade,West,51664
+1892,Modern Trade,South,50406
+1893,Kirana,North,44672
+1894,Convenience,South,25894
+1895,Kirana,West,16716
+1896,Convenience,South,25820
+1897,Modern Trade,North,42126
+1898,Convenience,South,78637
+1899,Wholesale,East,35388
+1900,Modern Trade,West,34484
+1901,Wholesale,East,4851
+1902,Kirana,North,44181
+1903,Kirana,South,82483
+1904,Kirana,East,30576
+1905,Convenience,East,28803
+1906,Modern Trade,South,24548
+1907,Kirana,South,54851
+1908,Kirana,West,4576
+1909,Modern Trade,East,74026
+1910,Kirana,East,27810
+1911,Wholesale,North,44765
+1912,Modern Trade,West,57877
+1913,Modern Trade,North,14901
+1914,Modern Trade,East,32822
+1915,Wholesale,North,27334
+1916,Modern Trade,East,11788
+1917,Wholesale,East,67594
+1918,Modern Trade,North,25593
+1919,Convenience,North,11319
+1920,Kirana,South,34369
+1921,Convenience,South,8439
+1922,Kirana,South,22992
+1923,Wholesale,East,41514
+1924,Convenience,North,7534
+1925,Modern Trade,West,52420
+1926,Kirana,East,35743
+1927,Kirana,West,58107
+1928,Convenience,North,57661
+1929,Wholesale,East,22334
+1930,Convenience,West,22851
+1931,Wholesale,West,47174
+1932,Wholesale,South,12826
+1933,Kirana,South,12907
+1934,Convenience,South,19810
+1935,Convenience,East,9237
+1936,Wholesale,North,11194
+1937,Convenience,North,11563
+1938,Modern Trade,South,25669
+1939,Modern Trade,South,24722
+1940,Convenience,South,64297
+1941,Convenience,West,26041
+1942,Wholesale,South,30932
+1943,Modern Trade,West,100943
+1944,Modern Trade,North,2473
+1945,Kirana,East,38637
+1946,Wholesale,East,27844
+1947,Kirana,East,41560
+1948,Modern Trade,East,20887
+1949,Wholesale,West,25907
+1950,Convenience,West,76194
+1951,Wholesale,South,46712
+1952,Convenience,West,26963
+1953,Convenience,South,17073
+1954,Wholesale,South,12782
+1955,Convenience,East,22013
+1956,Kirana,West,28907
+1957,Modern Trade,West,100693
+1958,Convenience,South,36579
+1959,Kirana,South,18901
+1960,Convenience,North,2490
+1961,Modern Trade,North,16645
+1962,Kirana,South,22038
+1963,Modern Trade,North,39262
+1964,Modern Trade,North,22716
+1965,Kirana,South,103811
+1966,Kirana,South,27346
+1967,Kirana,West,65799
+1968,Wholesale,South,6865
+1969,Kirana,South,31481
+1970,Kirana,East,16801
+1971,Kirana,West,67047
+1972,Kirana,West,23965
+1973,Convenience,West,77637
+1974,Wholesale,East,51925
+1975,Modern Trade,South,21455
+1976,Kirana,West,12558
+1977,Convenience,West,17711
+1978,Convenience,North,25932
+1979,Convenience,West,51690
+1980,Modern Trade,South,32313
+1981,Kirana,South,58359
+1982,Wholesale,North,81711
+1983,Wholesale,West,33641
+1984,Convenience,West,13881
+1985,Modern Trade,West,42970
+1986,Modern Trade,East,111386
+1987,Modern Trade,West,60649
+1988,Wholesale,South,40634
+1989,Convenience,South,15570
+1990,Kirana,East,28117
+1991,Wholesale,East,7355
+1992,Convenience,West,11860
+1993,Convenience,North,43612
+1994,Kirana,East,5718
+1995,Kirana,East,24909
+1996,Kirana,West,10653
+1997,Modern Trade,West,12424
+1998,Kirana,East,34109
+1999,Convenience,North,17733
+2000,Kirana,East,8686
+2001,Convenience,West,20828
+2002,Wholesale,West,8377
+2003,Modern Trade,East,74432
+2004,Wholesale,North,53700
+2005,Wholesale,East,53533
+2006,Convenience,East,16282
+2007,Wholesale,West,44651
+2008,Convenience,North,37911
+2009,Kirana,South,17384
+2010,Kirana,North,30769
+2011,Convenience,East,6981
+2012,Kirana,East,12873
+2013,Modern Trade,East,30115
+2014,Wholesale,North,21841
+2015,Modern Trade,West,41865
+2016,Wholesale,East,17793
+2017,Kirana,East,24550
+2018,Modern Trade,North,32088
+2019,Kirana,South,16526
+2020,Wholesale,South,24211
+2021,Convenience,West,37716
+2022,Convenience,West,88753
+2023,Modern Trade,East,16613
+2024,Kirana,North,21928
+2025,Kirana,East,60237
+2026,Modern Trade,West,70640
+2027,Convenience,North,47719
+2028,Wholesale,North,69419
+2029,Modern Trade,West,15797
+2030,Wholesale,South,64986
+2031,Convenience,South,55027
+2032,Kirana,North,12266
+2033,Convenience,East,24841
+2034,Modern Trade,South,3372
+2035,Kirana,East,35695
+2036,Modern Trade,South,64183
+2037,Modern Trade,South,21005
+2038,Convenience,East,13646
+2039,Modern Trade,West,12785
+2040,Convenience,South,31723
+2041,Kirana,South,47417
+2042,Convenience,East,89995
+2043,Kirana,West,3008
+2044,Convenience,South,82802
+2045,Wholesale,South,37137
+2046,Wholesale,West,62123
+2047,Modern Trade,South,52806
+2048,Convenience,West,33228
+2049,Convenience,West,32279
+2050,Kirana,East,42732
+2051,Modern Trade,North,26393
+2052,Convenience,West,28095
+2053,Modern Trade,East,49069
+2054,Wholesale,North,16561
+2055,Convenience,South,66163
+2056,Convenience,North,62479
+2057,Modern Trade,West,22021
+2058,Convenience,West,49412
+2059,Modern Trade,West,45070
+2060,Convenience,West,20173
+2061,Kirana,West,51984
+2062,Modern Trade,East,86812
+2063,Convenience,West,67696
+2064,Wholesale,East,8584
+2065,Convenience,South,46191
+2066,Wholesale,West,60477
+2067,Wholesale,West,19084
+2068,Kirana,North,66171
+2069,Modern Trade,South,17280
+2070,Convenience,West,26179
+2071,Kirana,West,17869
+2072,Convenience,South,15420
+2073,Wholesale,East,42683
+2074,Modern Trade,West,9401
+2075,Convenience,North,27346
+2076,Convenience,West,42699
+2077,Wholesale,North,18087
+2078,Convenience,North,73957
+2079,Convenience,West,29086
+2080,Wholesale,West,95994
+2081,Kirana,North,8352
+2082,Wholesale,South,43911
+2083,Kirana,South,37820
+2084,Modern Trade,West,23949
+2085,Kirana,East,33380
+2086,Kirana,South,48639
+2087,Modern Trade,West,55210
+2088,Kirana,South,29834
+2089,Wholesale,East,44317
+2090,Kirana,West,16490
+2091,Modern Trade,East,55951
+2092,Wholesale,West,83736
+2093,Modern Trade,East,58927
+2094,Modern Trade,South,17902
+2095,Convenience,South,14240
+2096,Convenience,East,136127
+2097,Modern Trade,East,80084
+2098,Modern Trade,East,55350
+2099,Modern Trade,West,87412
+2100,Convenience,South,32558
+2101,Convenience,West,54649
+2102,Kirana,South,73436
+2103,Kirana,North,26382
+2104,Modern Trade,West,46166
+2105,Wholesale,South,68045
+2106,Wholesale,South,13340
+2107,Convenience,West,24325
+2108,Convenience,West,67018
+2109,Convenience,South,38581
+2110,Modern Trade,West,34898
+2111,Wholesale,East,31862
+2112,Kirana,West,71755
+2113,Modern Trade,West,14699
+2114,Kirana,West,23008
+2115,Kirana,South,9319
+2116,Modern Trade,East,25739
+2117,Kirana,North,37200
+2118,Wholesale,North,4866
+2119,Kirana,East,16716
+2120,Wholesale,East,38537
+2121,Wholesale,East,45649
+2122,Wholesale,South,100551
+2123,Convenience,North,50564
+2124,Kirana,East,28945
+2125,Modern Trade,South,36463
+2126,Modern Trade,North,37397
+2127,Kirana,West,23038
+2128,Convenience,South,39755
+2129,Convenience,North,22132
+2130,Wholesale,South,41212
+2131,Kirana,North,31837
+2132,Kirana,North,27948
+2133,Modern Trade,West,28580
+2134,Kirana,South,56491
+2135,Convenience,East,52807
+2136,Kirana,West,26831
+2137,Modern Trade,West,54997
+2138,Wholesale,North,31364
+2139,Modern Trade,East,31736
+2140,Modern Trade,South,23055
+2141,Wholesale,East,93700
+2142,Modern Trade,East,87282
+2143,Modern Trade,East,19198
+2144,Kirana,East,25591
+2145,Kirana,East,43526
+2146,Wholesale,North,49355
+2147,Kirana,North,13597
+2148,Kirana,West,15771
+2149,Modern Trade,North,49464
+2150,Convenience,West,8508
+2151,Kirana,West,19339
+2152,Convenience,South,60841
+2153,Kirana,East,58936
+2154,Kirana,North,90339
+2155,Wholesale,South,110540
+2156,Wholesale,North,172354
+2157,Wholesale,West,24999
+2158,Convenience,North,20450
+2159,Modern Trade,East,44735
+2160,Kirana,West,9547
+2161,Kirana,West,27541
+2162,Kirana,South,37125
+2163,Convenience,East,47172
+2164,Wholesale,West,50818
+2165,Modern Trade,East,26878
+2166,Convenience,North,11030
+2167,Wholesale,East,13427
+2168,Convenience,West,4174
+2169,Modern Trade,South,21070
+2170,Wholesale,West,9323
+2171,Convenience,East,22300
+2172,Modern Trade,East,44414
+2173,Kirana,West,11282
+2174,Modern Trade,East,35593
+2175,Kirana,North,26650
+2176,Convenience,West,42754
+2177,Wholesale,South,50146
+2178,Wholesale,West,25348
+2179,Convenience,North,33391
+2180,Wholesale,North,26733
+2181,Wholesale,North,22867
+2182,Kirana,North,18519
+2183,Convenience,North,46926
+2184,Modern Trade,South,79916
+2185,Kirana,East,73636
+2186,Convenience,North,10277
+2187,Kirana,North,78930
+2188,Modern Trade,West,14983
+2189,Modern Trade,South,37135
+2190,Convenience,South,42107
+2191,Modern Trade,East,7817
+2192,Kirana,South,29024
+2193,Modern Trade,West,82230
+2194,Kirana,West,2598
+2195,Kirana,East,142909
+2196,Modern Trade,West,3941
+2197,Convenience,North,41337
+2198,Wholesale,North,8223
+2199,Modern Trade,West,46189
+2200,Kirana,East,71462
+2201,Kirana,South,58759
+2202,Modern Trade,East,65493
+2203,Convenience,South,26828
+2204,Convenience,West,81848
+2205,Kirana,West,122232
+2206,Kirana,North,35747
+2207,Convenience,South,24443
+2208,Wholesale,East,16975
+2209,Modern Trade,West,56150
+2210,Kirana,East,67638
+2211,Kirana,North,24452
+2212,Convenience,South,93928
+2213,Modern Trade,South,52904
+2214,Convenience,West,35440
+2215,Modern Trade,South,42325
+2216,Modern Trade,West,13779
+2217,Modern Trade,North,55704
+2218,Kirana,South,14641
+2219,Wholesale,West,21938
+2220,Convenience,East,31487
+2221,Wholesale,West,109779
+2222,Convenience,South,39869
+2223,Modern Trade,North,15996
+2224,Kirana,South,42441
+2225,Wholesale,South,50683
+2226,Kirana,West,75318
+2227,Convenience,East,32710
+2228,Kirana,South,18201
+2229,Kirana,East,129140
+2230,Wholesale,West,42509
+2231,Modern Trade,East,16086
+2232,Kirana,West,32488
+2233,Modern Trade,North,21947
+2234,Convenience,East,78411
+2235,Kirana,East,50339
+2236,Wholesale,North,25891
+2237,Convenience,East,67666
+2238,Convenience,North,30486
+2239,Wholesale,South,31912
+2240,Kirana,West,17765
+2241,Kirana,North,17641
+2242,Convenience,East,123563
+2243,Kirana,North,65492
+2244,Modern Trade,East,5023
+2245,Wholesale,South,14319
+2246,Modern Trade,North,11688
+2247,Kirana,South,34904
+2248,Convenience,West,23727
+2249,Wholesale,East,89097
+2250,Kirana,East,25591
+2251,Kirana,South,115364
+2252,Convenience,West,31217
+2253,Convenience,North,131975
+2254,Modern Trade,North,28377
+2255,Wholesale,East,28822
+2256,Wholesale,South,64498
+2257,Convenience,South,58140
+2258,Modern Trade,North,9852
+2259,Wholesale,West,35546
+2260,Convenience,West,23547
+2261,Kirana,North,22231
+2262,Wholesale,North,35416
+2263,Modern Trade,South,26433
+2264,Modern Trade,West,38286
+2265,Modern Trade,North,13727
+2266,Kirana,North,7638
+2267,Wholesale,East,66218
+2268,Wholesale,North,73343
+2269,Kirana,North,63402
+2270,Wholesale,West,34228
+2271,Kirana,South,24822
+2272,Kirana,West,19781
+2273,Kirana,South,16733
+2274,Modern Trade,East,31243
+2275,Wholesale,North,72117
+2276,Kirana,East,18375
+2277,Wholesale,South,72202
+2278,Modern Trade,West,8074
+2279,Kirana,West,39781
+2280,Convenience,East,46045
+2281,Modern Trade,South,21610
+2282,Convenience,East,12902
+2283,Wholesale,East,60300
+2284,Wholesale,North,34427
+2285,Modern Trade,East,158276
+2286,Wholesale,North,72868
+2287,Convenience,North,73263
+2288,Kirana,West,1848
+2289,Kirana,North,18696
+2290,Kirana,North,11490
+2291,Modern Trade,West,3887
+2292,Wholesale,East,32354
+2293,Convenience,South,59258
+2294,Wholesale,South,14133
+2295,Wholesale,South,4195
+2296,Wholesale,East,15247
+2297,Kirana,North,29376
+2298,Convenience,South,27689
+2299,Convenience,East,33606
+2300,Wholesale,North,45355
+2301,Kirana,West,32974
+2302,Kirana,South,61570
+2303,Convenience,North,14381
+2304,Kirana,South,26770
+2305,Kirana,South,50835
+2306,Kirana,South,41134
+2307,Modern Trade,North,106570
+2308,Wholesale,East,14948
+2309,Convenience,North,51491
+2310,Convenience,South,19568
+2311,Modern Trade,North,17744
+2312,Wholesale,West,69908
+2313,Convenience,East,32687
+2314,Kirana,North,40618
+2315,Convenience,West,20887
+2316,Kirana,East,21932
+2317,Modern Trade,West,7476
+2318,Kirana,East,38260
+2319,Convenience,North,13102
+2320,Convenience,West,29807
+2321,Convenience,South,61524
+2322,Modern Trade,West,5351
+2323,Modern Trade,East,185701
+2324,Wholesale,North,17423
+2325,Convenience,East,30486
+2326,Kirana,West,40581
+2327,Modern Trade,West,16909
+2328,Convenience,South,22596
+2329,Convenience,North,71471
+2330,Modern Trade,North,56949
+2331,Wholesale,West,27227
+2332,Modern Trade,North,33286
+2333,Modern Trade,South,37080
+2334,Kirana,East,49896
+2335,Kirana,North,52467
+2336,Wholesale,West,51489
+2337,Convenience,East,23828
+2338,Modern Trade,East,36192
+2339,Wholesale,South,66321
+2340,Kirana,West,128924
+2341,Modern Trade,North,35432
+2342,Convenience,West,21237
+2343,Kirana,East,16626
+2344,Kirana,West,51773
+2345,Kirana,North,7105
+2346,Wholesale,North,52143
+2347,Convenience,South,52793
+2348,Modern Trade,North,21889
+2349,Wholesale,North,39918
+2350,Wholesale,West,27953
+2351,Wholesale,West,9406
+2352,Kirana,East,49466
+2353,Convenience,South,46336
+2354,Wholesale,West,23364
+2355,Modern Trade,North,127610
+2356,Convenience,East,33498
+2357,Modern Trade,West,4763
+2358,Convenience,South,68713
+2359,Modern Trade,South,58111
+2360,Kirana,East,62943
+2361,Wholesale,East,13791
+2362,Modern Trade,East,39136
+2363,Convenience,East,33067
+2364,Wholesale,East,29042
+2365,Wholesale,North,81217
+2366,Convenience,North,33852
+2367,Modern Trade,West,24039
+2368,Kirana,South,23842
+2369,Kirana,North,12825
+2370,Modern Trade,North,36390
+2371,Wholesale,North,85437
+2372,Wholesale,West,25666
+2373,Wholesale,East,40767
+2374,Wholesale,West,28683
+2375,Modern Trade,South,31153
+2376,Wholesale,South,59932
+2377,Convenience,South,12667
+2378,Wholesale,South,7895
+2379,Kirana,North,68784
+2380,Wholesale,North,21395
+2381,Modern Trade,West,24273
+2382,Kirana,East,145727
+2383,Modern Trade,South,57857
+2384,Modern Trade,West,15627
+2385,Kirana,North,72093
+2386,Modern Trade,North,58801
+2387,Modern Trade,East,461
+2388,Wholesale,East,37404
+2389,Convenience,East,13272
+2390,Modern Trade,West,31103
+2391,Modern Trade,North,129193
+2392,Modern Trade,North,61702
+2393,Wholesale,East,67523
+2394,Convenience,South,28729
+2395,Kirana,East,67737
+2396,Wholesale,West,17958
+2397,Wholesale,East,37049
+2398,Convenience,East,59742
+2399,Convenience,West,58478
+2400,Wholesale,East,8426
+2401,Kirana,North,111060
+2402,Wholesale,South,15037
+2403,Convenience,East,162816
+2404,Kirana,West,60985
+2405,Convenience,South,57397
+2406,Kirana,West,16243
+2407,Modern Trade,South,22157
+2408,Convenience,South,105179
+2409,Convenience,East,96214
+2410,Wholesale,North,29369
+2411,Convenience,East,27435
+2412,Convenience,West,28080
+2413,Modern Trade,West,72429
+2414,Convenience,South,67685
+2415,Modern Trade,South,44394
+2416,Modern Trade,North,37324
+2417,Modern Trade,East,29104
+2418,Modern Trade,West,154435
+2419,Kirana,South,9433
+2420,Wholesale,North,24528
+2421,Kirana,West,42178
+2422,Convenience,South,7597
+2423,Kirana,West,20926
+2424,Kirana,North,128098
+2425,Convenience,North,64599
+2426,Convenience,West,20783
+2427,Convenience,East,20252
+2428,Kirana,West,9507
+2429,Kirana,South,23298
+2430,Convenience,East,50277
+2431,Wholesale,South,44230
+2432,Wholesale,West,24327
+2433,Modern Trade,East,14839
+2434,Convenience,South,28798
+2435,Modern Trade,West,28296
+2436,Wholesale,West,58913
+2437,Modern Trade,East,39652
+2438,Convenience,West,35783
+2439,Convenience,North,76824
+2440,Convenience,South,95624
+2441,Kirana,South,43839
+2442,Modern Trade,West,44636
+2443,Wholesale,West,30399
+2444,Wholesale,North,16050
+2445,Wholesale,East,62225
+2446,Kirana,West,54024
+2447,Kirana,West,32370
+2448,Convenience,West,39744
+2449,Wholesale,West,73369
+2450,Kirana,South,81863
+2451,Convenience,West,1968
+2452,Wholesale,South,19622
+2453,Modern Trade,West,32288
+2454,Convenience,East,12801
+2455,Kirana,North,40530
+2456,Kirana,East,20522
+2457,Convenience,West,41549
+2458,Convenience,West,21055
+2459,Kirana,West,21822
+2460,Modern Trade,East,41314
+2461,Wholesale,West,64120
+2462,Modern Trade,East,51814
+2463,Convenience,South,32501
+2464,Modern Trade,North,5265
+2465,Kirana,North,21378
+2466,Convenience,East,19446
+2467,Wholesale,South,56360
+2468,Kirana,East,37571
+2469,Kirana,South,38625
+2470,Wholesale,West,16721
+2471,Wholesale,South,84094
+2472,Modern Trade,South,38429
+2473,Convenience,South,15832
+2474,Wholesale,North,16870
+2475,Wholesale,South,42673
+2476,Convenience,West,15296
+2477,Wholesale,West,19663
+2478,Wholesale,West,12217
+2479,Modern Trade,South,56036
+2480,Kirana,East,15625
+2481,Kirana,East,93523
+2482,Kirana,West,46625
+2483,Kirana,North,12171
+2484,Wholesale,East,51477
+2485,Convenience,South,84194
+2486,Convenience,East,31417
+2487,Modern Trade,West,90879
+2488,Modern Trade,North,47266
+2489,Wholesale,East,20540
+2490,Convenience,East,129425
+2491,Convenience,West,9240
+2492,Kirana,North,25697
+2493,Wholesale,North,32502
+2494,Wholesale,West,115265
+2495,Kirana,South,56955
+2496,Wholesale,East,50362
+2497,Wholesale,South,17925
+2498,Modern Trade,East,30496
+2499,Convenience,East,20954
+2500,Wholesale,South,49158
+2501,Modern Trade,West,75309
+2502,Convenience,West,148896
+2503,Kirana,East,22979
+2504,Modern Trade,West,8971
+2505,Modern Trade,East,26048
+2506,Convenience,West,68384
+2507,Kirana,East,16037
+2508,Modern Trade,West,33412
+2509,Wholesale,North,50821
+2510,Wholesale,South,23371
+2511,Wholesale,North,39682
+2512,Kirana,South,14665
+2513,Modern Trade,South,78895
+2514,Wholesale,East,27658
+2515,Kirana,South,38826
+2516,Wholesale,North,5531
+2517,Convenience,North,12835
+2518,Modern Trade,West,66819
+2519,Modern Trade,North,23098
+2520,Kirana,West,15353
+2521,Kirana,South,8236
+2522,Modern Trade,North,77886
+2523,Wholesale,South,55229
+2524,Wholesale,North,52688
+2525,Convenience,North,99186
+2526,Wholesale,West,25718
+2527,Kirana,South,9083
+2528,Kirana,North,34928
+2529,Wholesale,East,111908
+2530,Kirana,South,35476
+2531,Modern Trade,South,73975
+2532,Modern Trade,South,9447
+2533,Wholesale,West,17605
+2534,Modern Trade,East,64089
+2535,Modern Trade,South,38236
+2536,Convenience,North,30967
+2537,Convenience,North,73282
+2538,Modern Trade,West,63495
+2539,Wholesale,North,39012
+2540,Convenience,South,2009
+2541,Kirana,North,33807
+2542,Kirana,South,46221
+2543,Kirana,North,5708
+2544,Wholesale,East,45092
+2545,Modern Trade,West,75560
+2546,Kirana,West,33758
+2547,Wholesale,East,13793
+2548,Convenience,East,2427
+2549,Modern Trade,West,45746
+2550,Convenience,East,6569
+2551,Wholesale,South,52380
+2552,Kirana,North,108344
+2553,Kirana,West,18336
+2554,Wholesale,East,28214
+2555,Kirana,South,112463
+2556,Modern Trade,West,36966
+2557,Wholesale,East,23290
+2558,Convenience,West,68380
+2559,Wholesale,East,24365
+2560,Modern Trade,West,17273
+2561,Modern Trade,South,51807
+2562,Wholesale,South,72186
+2563,Wholesale,North,17163
+2564,Kirana,West,39306
+2565,Modern Trade,North,29209
+2566,Wholesale,West,33025
+2567,Wholesale,East,13921
+2568,Modern Trade,East,54644
+2569,Wholesale,North,93265
+2570,Kirana,West,16813
+2571,Modern Trade,North,54613
+2572,Kirana,South,67295
+2573,Kirana,North,39090
+2574,Kirana,North,52982
+2575,Kirana,East,18600
+2576,Modern Trade,North,89768
+2577,Kirana,West,72563
+2578,Kirana,East,78266
+2579,Wholesale,North,11769
+2580,Modern Trade,South,48288
+2581,Modern Trade,North,19823
+2582,Convenience,North,94944
+2583,Modern Trade,North,17136
+2584,Modern Trade,East,40278
+2585,Convenience,West,3952
+2586,Modern Trade,South,40123
+2587,Modern Trade,North,11904
+2588,Modern Trade,West,50081
+2589,Modern Trade,West,29902
+2590,Convenience,East,24962
+2591,Modern Trade,South,96552
+2592,Modern Trade,East,135357
+2593,Convenience,West,8685
+2594,Wholesale,West,25629
+2595,Kirana,West,60820
+2596,Wholesale,East,44294
+2597,Convenience,South,58496
+2598,Kirana,North,31622
+2599,Convenience,East,74626
+2600,Convenience,West,38983
+2601,Modern Trade,East,46216
+2602,Kirana,West,11918
+2603,Modern Trade,North,36052
+2604,Kirana,North,61281
+2605,Convenience,South,42515
+2606,Convenience,West,37277
+2607,Wholesale,South,48329
+2608,Kirana,South,38818
+2609,Modern Trade,North,32449
+2610,Wholesale,East,62614
+2611,Wholesale,East,30724
+2612,Wholesale,South,11200
+2613,Modern Trade,North,93651
+2614,Wholesale,West,20344
+2615,Modern Trade,East,8231
+2616,Wholesale,South,52676
+2617,Modern Trade,East,101701
+2618,Convenience,East,53571
+2619,Convenience,West,84835
+2620,Convenience,North,15473
+2621,Convenience,West,11358
+2622,Convenience,North,25553
+2623,Wholesale,East,70895
+2624,Wholesale,South,50208
+2625,Wholesale,West,52890
+2626,Modern Trade,North,37260
+2627,Modern Trade,East,25963
+2628,Modern Trade,North,38541
+2629,Modern Trade,North,29888
+2630,Convenience,North,24507
+2631,Convenience,East,45179
+2632,Convenience,South,27667
+2633,Kirana,South,41480
+2634,Wholesale,South,4539
+2635,Modern Trade,North,38973
+2636,Modern Trade,East,27529
+2637,Convenience,North,87917
+2638,Modern Trade,South,7839
+2639,Modern Trade,South,36835
+2640,Wholesale,East,61797
+2641,Convenience,North,30834
+2642,Wholesale,West,26782
+2643,Kirana,West,61650
+2644,Kirana,South,49330
+2645,Kirana,East,52009
+2646,Convenience,North,24547
+2647,Modern Trade,North,22071
+2648,Convenience,South,41518
+2649,Convenience,South,65232
+2650,Modern Trade,North,9828
+2651,Wholesale,North,31700
+2652,Kirana,South,22908
+2653,Wholesale,North,34706
+2654,Kirana,West,57795
+2655,Convenience,South,16845
+2656,Kirana,North,53335
+2657,Convenience,South,25231
+2658,Wholesale,East,72378
+2659,Convenience,South,17735
+2660,Wholesale,South,64609
+2661,Modern Trade,East,10910
+2662,Modern Trade,West,39494
+2663,Modern Trade,North,54129
+2664,Convenience,East,18154
+2665,Modern Trade,South,23542
+2666,Kirana,North,34993
+2667,Wholesale,East,26706
+2668,Wholesale,North,21744
+2669,Kirana,North,62298
+2670,Convenience,East,77426
+2671,Convenience,North,74366
+2672,Wholesale,West,47871
+2673,Modern Trade,East,52568
+2674,Convenience,West,15587
+2675,Convenience,South,32573
+2676,Kirana,North,37198
+2677,Kirana,South,42624
+2678,Modern Trade,South,42082
+2679,Convenience,North,35060
+2680,Convenience,East,47476
+2681,Kirana,North,40727
+2682,Convenience,South,40659
+2683,Wholesale,South,19227
+2684,Kirana,East,12482
+2685,Modern Trade,North,42779
+2686,Kirana,South,24394
+2687,Convenience,West,20005
+2688,Modern Trade,South,55105
+2689,Kirana,South,32842
+2690,Wholesale,East,85092
+2691,Wholesale,West,51078
+2692,Kirana,South,18214
+2693,Wholesale,South,55579
+2694,Wholesale,West,45880
+2695,Wholesale,North,17619
+2696,Modern Trade,North,22029
+2697,Wholesale,South,53765
+2698,Wholesale,South,6175
+2699,Wholesale,North,3760
+2700,Modern Trade,East,38993
+2701,Kirana,West,36876
+2702,Convenience,West,41573
+2703,Wholesale,East,36954
+2704,Kirana,East,47046
+2705,Wholesale,East,78139
+2706,Modern Trade,East,34497
+2707,Kirana,East,9039
+2708,Modern Trade,East,5350
+2709,Wholesale,West,26157
+2710,Wholesale,East,26705
+2711,Modern Trade,North,10661
+2712,Convenience,East,2902
+2713,Modern Trade,East,24637
+2714,Wholesale,West,101357
+2715,Modern Trade,West,45681
+2716,Convenience,East,42867
+2717,Modern Trade,West,30127
+2718,Convenience,South,26122
+2719,Convenience,West,49005
+2720,Modern Trade,West,11930
+2721,Modern Trade,West,118962
+2722,Kirana,West,12805
+2723,Wholesale,North,52157
+2724,Convenience,North,13941
+2725,Kirana,North,37645
+2726,Modern Trade,East,56108
+2727,Wholesale,East,7307
+2728,Kirana,South,15389
+2729,Convenience,North,16322
+2730,Kirana,East,27900
+2731,Convenience,West,41159
+2732,Modern Trade,West,102718
+2733,Wholesale,North,21868
+2734,Wholesale,South,98423
+2735,Wholesale,South,44538
+2736,Modern Trade,West,12397
+2737,Convenience,South,30236
+2738,Modern Trade,North,9201
+2739,Wholesale,West,26169
+2740,Modern Trade,East,24741
+2741,Modern Trade,East,38109
+2742,Modern Trade,South,52280
+2743,Convenience,West,32090
+2744,Kirana,West,13770
+2745,Kirana,East,84852
+2746,Modern Trade,West,107089
+2747,Kirana,West,29720
+2748,Kirana,West,43132
+2749,Modern Trade,South,28453
+2750,Modern Trade,West,38337
+2751,Wholesale,North,39853
+2752,Kirana,South,10826
+2753,Convenience,West,26564
+2754,Modern Trade,West,68491
+2755,Wholesale,North,64491
+2756,Convenience,South,26175
+2757,Kirana,East,40413
+2758,Wholesale,East,27775
+2759,Modern Trade,South,53694
+2760,Convenience,West,7239
+2761,Modern Trade,West,49099
+2762,Kirana,East,88650
+2763,Convenience,East,19049
+2764,Kirana,East,80753
+2765,Kirana,North,41906
+2766,Wholesale,East,32028
+2767,Modern Trade,North,26013
+2768,Convenience,South,82652
+2769,Kirana,West,27847
+2770,Kirana,East,97541
+2771,Convenience,West,90224
+2772,Kirana,West,23114
+2773,Wholesale,East,29498
+2774,Wholesale,East,5014
+2775,Wholesale,South,32837
+2776,Wholesale,North,36027
+2777,Kirana,North,73466
+2778,Convenience,West,93468
+2779,Convenience,East,57259
+2780,Convenience,South,69440
+2781,Convenience,South,29479
+2782,Modern Trade,South,11512
+2783,Convenience,South,41849
+2784,Modern Trade,South,72633
+2785,Modern Trade,North,1418
+2786,Wholesale,North,37325
+2787,Modern Trade,North,5882
+2788,Kirana,East,17734
+2789,Modern Trade,West,38445
+2790,Wholesale,South,94479
+2791,Modern Trade,East,34570
+2792,Kirana,South,54679
+2793,Kirana,North,41552
+2794,Kirana,East,18688
+2795,Wholesale,North,47626
+2796,Wholesale,South,11209
+2797,Convenience,South,34193
+2798,Wholesale,West,81608
+2799,Kirana,South,39247
+2800,Kirana,North,41565
+2801,Wholesale,South,26138
+2802,Modern Trade,West,7819
+2803,Wholesale,West,28586
+2804,Wholesale,North,62264
+2805,Kirana,East,45470
+2806,Convenience,South,11859
+2807,Kirana,West,5533
+2808,Convenience,South,18498
+2809,Kirana,South,28815
+2810,Wholesale,East,30453
+2811,Kirana,West,30766
+2812,Kirana,South,34312
+2813,Kirana,West,46559
+2814,Wholesale,North,24725
+2815,Wholesale,North,15129
+2816,Wholesale,South,50440
+2817,Wholesale,West,63295
+2818,Convenience,South,21617
+2819,Convenience,West,119497
+2820,Modern Trade,West,91144
+2821,Wholesale,East,12694
+2822,Convenience,East,6020
+2823,Kirana,East,29808
+2824,Wholesale,South,41764
+2825,Modern Trade,East,118352
+2826,Modern Trade,East,115761
+2827,Modern Trade,North,54771
+2828,Kirana,West,25141
+2829,Convenience,West,75640
+2830,Kirana,East,37512
+2831,Wholesale,West,10203
+2832,Modern Trade,North,10599
+2833,Kirana,North,25279
+2834,Kirana,East,67295
+2835,Convenience,North,13740
+2836,Convenience,West,25234
+2837,Modern Trade,South,90618
+2838,Kirana,West,45413
+2839,Kirana,South,49311
+2840,Convenience,East,68967
+2841,Kirana,South,25659
+2842,Kirana,North,94733
+2843,Kirana,West,55930
+2844,Convenience,South,31232
+2845,Modern Trade,West,83042
+2846,Wholesale,East,54212
+2847,Modern Trade,East,33699
+2848,Wholesale,North,50355
+2849,Kirana,East,16417
+2850,Modern Trade,South,75823
+2851,Wholesale,East,117037
+2852,Convenience,North,7445
+2853,Convenience,West,21409
+2854,Modern Trade,West,19915
+2855,Modern Trade,East,58412
+2856,Kirana,South,40182
+2857,Modern Trade,North,24219
+2858,Kirana,South,27332
+2859,Kirana,North,22413
+2860,Convenience,East,53395
+2861,Convenience,North,39695
+2862,Wholesale,North,26281
+2863,Convenience,East,22754
+2864,Convenience,South,84019
+2865,Modern Trade,East,74518
+2866,Convenience,North,53834
+2867,Wholesale,East,69212
+2868,Modern Trade,North,10307
+2869,Wholesale,East,13621
+2870,Convenience,West,12252
+2871,Wholesale,West,34497
+2872,Modern Trade,East,70779
+2873,Kirana,South,24505
+2874,Wholesale,North,77490
+2875,Wholesale,West,21370
+2876,Modern Trade,South,30936
+2877,Modern Trade,North,24275
+2878,Wholesale,West,29106
+2879,Convenience,West,31655
+2880,Wholesale,East,5813
+2881,Modern Trade,North,44504
+2882,Kirana,South,31083
+2883,Kirana,South,94594
+2884,Convenience,South,51974
+2885,Wholesale,North,43105
+2886,Kirana,South,90871
+2887,Wholesale,South,84799
+2888,Modern Trade,South,97411
+2889,Kirana,East,22490
+2890,Convenience,East,11960
+2891,Modern Trade,North,5848
+2892,Convenience,North,68565
+2893,Modern Trade,South,4800
+2894,Kirana,East,40134
+2895,Convenience,West,8150
+2896,Convenience,West,75494
+2897,Modern Trade,South,49073
+2898,Convenience,South,75199
+2899,Modern Trade,East,40774
+2900,Modern Trade,East,15075
+2901,Modern Trade,East,23757
+2902,Modern Trade,North,63930
+2903,Kirana,North,7382
+2904,Modern Trade,South,22184
+2905,Wholesale,North,19623
+2906,Convenience,East,31990
+2907,Wholesale,East,53213
+2908,Kirana,North,73894
+2909,Wholesale,West,9632
+2910,Convenience,South,16035
+2911,Wholesale,West,10803
+2912,Kirana,South,32986
+2913,Modern Trade,West,12146
+2914,Wholesale,North,44247
+2915,Kirana,South,80807
+2916,Kirana,South,6088
+2917,Convenience,South,16545
+2918,Convenience,East,98099
+2919,Wholesale,East,39316
+2920,Modern Trade,West,22504
+2921,Kirana,North,168079
+2922,Wholesale,East,27251
+2923,Kirana,South,51731
+2924,Kirana,East,17201
+2925,Modern Trade,North,14579
+2926,Modern Trade,East,53921
+2927,Wholesale,South,104050
+2928,Modern Trade,West,23336
+2929,Modern Trade,South,13592
+2930,Wholesale,North,67760
+2931,Modern Trade,West,23528
+2932,Convenience,East,44690
+2933,Kirana,East,22756
+2934,Kirana,East,26017
+2935,Kirana,West,15956
+2936,Kirana,South,54944
+2937,Wholesale,West,45662
+2938,Kirana,West,44508
+2939,Kirana,North,18812
+2940,Kirana,West,42798
+2941,Kirana,East,113465
+2942,Convenience,South,13680
+2943,Kirana,South,17312
+2944,Convenience,South,18156
+2945,Wholesale,East,36804
+2946,Modern Trade,East,12730
+2947,Kirana,East,49121
+2948,Modern Trade,East,5348
+2949,Modern Trade,East,59691
+2950,Wholesale,West,43917
+2951,Modern Trade,East,111748
+2952,Convenience,East,14284
+2953,Modern Trade,East,69638
+2954,Modern Trade,East,31156
+2955,Modern Trade,South,26508
+2956,Kirana,East,13645
+2957,Kirana,West,23034
+2958,Convenience,West,23909
+2959,Convenience,West,8207
+2960,Kirana,North,43578
+2961,Convenience,South,39495
+2962,Kirana,East,51582
+2963,Wholesale,North,20592
+2964,Modern Trade,East,61286
+2965,Modern Trade,North,83714
+2966,Convenience,North,28148
+2967,Kirana,West,14557
+2968,Kirana,West,35377
+2969,Convenience,North,34142
+2970,Kirana,West,29329
+2971,Wholesale,North,51668
+2972,Modern Trade,South,25478
+2973,Convenience,West,13504
+2974,Convenience,West,37868
+2975,Kirana,West,53456
+2976,Convenience,South,56600
+2977,Wholesale,North,24138
+2978,Kirana,East,41967
+2979,Kirana,West,84783
+2980,Kirana,North,71031
+2981,Kirana,South,7659
+2982,Wholesale,East,25668
+2983,Kirana,West,81076
+2984,Convenience,South,7611
+2985,Wholesale,South,32061
+2986,Modern Trade,East,20304
+2987,Modern Trade,North,42632
+2988,Convenience,West,3392
+2989,Convenience,West,75879
+2990,Wholesale,North,33276
+2991,Modern Trade,North,12671
+2992,Modern Trade,North,17931
+2993,Modern Trade,East,43723
+2994,Modern Trade,East,16720
+2995,Modern Trade,West,101819
+2996,Kirana,East,30338
+2997,Convenience,South,89711
+2998,Kirana,West,37917
+2999,Modern Trade,East,54936
+3000,Wholesale,North,52631
+3001,Wholesale,South,22509
+3002,Modern Trade,North,55421
+3003,Modern Trade,West,24174
+3004,Wholesale,North,6853
+3005,Kirana,East,28262
+3006,Kirana,East,10983
+3007,Modern Trade,West,23488
+3008,Kirana,North,32439
+3009,Wholesale,West,14966
+3010,Kirana,North,49940
+3011,Modern Trade,South,23939
+3012,Wholesale,East,10661
+3013,Kirana,West,15187
+3014,Convenience,South,36194
+3015,Wholesale,South,27288
+3016,Wholesale,West,41460
+3017,Convenience,West,36387
+3018,Convenience,South,13922
+3019,Wholesale,North,19889
+3020,Convenience,South,60940
+3021,Modern Trade,West,16166
+3022,Modern Trade,South,91131
+3023,Modern Trade,North,8470
+3024,Wholesale,East,59564
+3025,Convenience,East,30719
+3026,Convenience,South,14006
+3027,Kirana,North,35431
+3028,Kirana,East,16647
+3029,Convenience,South,21002
+3030,Convenience,South,24419
+3031,Convenience,North,56328
+3032,Wholesale,West,19646
+3033,Convenience,South,39629
+3034,Kirana,West,57852
+3035,Wholesale,West,34704
+3036,Convenience,East,44178
+3037,Kirana,West,32296
+3038,Wholesale,North,49203
+3039,Convenience,East,10360
+3040,Convenience,East,85742
+3041,Convenience,East,18594
+3042,Wholesale,South,30958
+3043,Kirana,South,4692
+3044,Kirana,West,21868
+3045,Modern Trade,East,40852
+3046,Convenience,East,93588
+3047,Modern Trade,North,50795
+3048,Modern Trade,West,23311
+3049,Kirana,North,7744
+3050,Wholesale,West,79206
+3051,Wholesale,West,22408
+3052,Kirana,South,40768
+3053,Wholesale,South,23364
+3054,Modern Trade,North,44528
+3055,Convenience,West,76822
+3056,Kirana,East,55855
+3057,Convenience,South,26887
+3058,Wholesale,East,80477
+3059,Convenience,North,107439
+3060,Wholesale,South,66015
+3061,Wholesale,South,23959
+3062,Modern Trade,West,59652
+3063,Wholesale,North,65550
+3064,Modern Trade,West,27294
+3065,Modern Trade,South,107430
+3066,Modern Trade,North,74490
+3067,Kirana,South,28416
+3068,Kirana,North,23938
+3069,Wholesale,South,64522
+3070,Modern Trade,East,126732
+3071,Kirana,East,11095
+3072,Modern Trade,West,46090
+3073,Convenience,East,58898
+3074,Convenience,South,76350
+3075,Convenience,South,59310
+3076,Wholesale,East,22656
+3077,Modern Trade,West,9894
+3078,Convenience,East,26137
+3079,Kirana,North,57919
+3080,Convenience,North,20697
+3081,Convenience,North,84535
+3082,Convenience,East,30191
+3083,Wholesale,East,19614
+3084,Kirana,East,49843
+3085,Modern Trade,North,27820
+3086,Kirana,West,23409
+3087,Modern Trade,South,116734
+3088,Wholesale,East,20589
+3089,Wholesale,West,25393
+3090,Wholesale,South,50365
+3091,Wholesale,South,83675
+3092,Modern Trade,South,47001
+3093,Convenience,West,36075
+3094,Modern Trade,West,125762
+3095,Kirana,North,24438
+3096,Wholesale,West,24537
+3097,Wholesale,West,20844
+3098,Kirana,West,44923
+3099,Modern Trade,South,15921
+3100,Convenience,East,12474
+3101,Convenience,North,25331
+3102,Kirana,East,7355
+3103,Convenience,East,40782
+3104,Modern Trade,West,45007
+3105,Modern Trade,North,50698
+3106,Kirana,East,61477
+3107,Modern Trade,East,25914
+3108,Wholesale,North,77252
+3109,Kirana,West,72129
+3110,Modern Trade,East,13996
+3111,Kirana,South,32373
+3112,Convenience,East,2699
+3113,Modern Trade,South,77994
+3114,Wholesale,West,60725
+3115,Modern Trade,East,90230
+3116,Kirana,North,8400
+3117,Kirana,North,47952
+3118,Modern Trade,East,22033
+3119,Wholesale,West,4588
+3120,Wholesale,West,67025
+3121,Wholesale,North,11308
+3122,Kirana,East,43595
+3123,Modern Trade,West,21825
+3124,Convenience,North,38262
+3125,Kirana,South,62072
+3126,Wholesale,East,38341
+3127,Modern Trade,South,15644
+3128,Wholesale,South,118629
+3129,Convenience,West,26212
+3130,Wholesale,West,18467
+3131,Wholesale,West,31603
+3132,Convenience,East,8607
+3133,Modern Trade,South,19914
+3134,Kirana,East,27496
+3135,Modern Trade,West,40639
+3136,Convenience,South,35005
+3137,Wholesale,East,48044
+3138,Modern Trade,East,32595
+3139,Kirana,North,71568
+3140,Convenience,East,54047
+3141,Modern Trade,West,45405
+3142,Kirana,East,79655
+3143,Convenience,South,79649
+3144,Kirana,East,36947
+3145,Convenience,North,25196
+3146,Wholesale,South,39546
+3147,Modern Trade,South,30486
+3148,Kirana,North,24399
+3149,Convenience,West,38402
+3150,Kirana,South,44402
+3151,Kirana,West,52236
+3152,Modern Trade,South,88239
+3153,Wholesale,South,41214
+3154,Kirana,West,33151
+3155,Convenience,South,65893
+3156,Convenience,West,17050
+3157,Wholesale,North,7441
+3158,Convenience,West,47481
+3159,Wholesale,North,26132
+3160,Convenience,South,27722
+3161,Modern Trade,West,16699
+3162,Kirana,South,75067
+3163,Modern Trade,West,7771
+3164,Kirana,North,50905
+3165,Kirana,North,33503
+3166,Kirana,West,91908
+3167,Modern Trade,North,66093
+3168,Kirana,South,12951
+3169,Modern Trade,South,54082
+3170,Wholesale,East,46506
+3171,Convenience,North,31654
+3172,Convenience,South,51172
+3173,Kirana,West,19875
+3174,Modern Trade,North,36066
+3175,Convenience,South,33956
+3176,Modern Trade,North,17466
+3177,Modern Trade,West,26182
+3178,Kirana,South,22760
+3179,Convenience,East,44379
+3180,Kirana,East,78035
+3181,Kirana,North,10412
+3182,Convenience,West,45349
+3183,Convenience,South,22084
+3184,Wholesale,West,63298
+3185,Wholesale,South,44956
+3186,Modern Trade,North,8058
+3187,Convenience,South,38425
+3188,Wholesale,West,30379
+3189,Modern Trade,West,11495
+3190,Modern Trade,North,22321
+3191,Modern Trade,West,37175
+3192,Wholesale,South,22857
+3193,Convenience,North,68321
+3194,Kirana,South,30169
+3195,Modern Trade,West,21032
+3196,Wholesale,North,38718
+3197,Wholesale,South,42457
+3198,Kirana,West,63695
+3199,Kirana,West,35001
+3200,Wholesale,East,41211
+3201,Convenience,West,53232
+3202,Kirana,South,17428
+3203,Wholesale,North,61025
+3204,Kirana,East,11814
+3205,Convenience,West,36853
+3206,Modern Trade,West,37342
+3207,Kirana,West,36665
+3208,Convenience,South,10846
+3209,Wholesale,East,1576
+3210,Kirana,South,26873
+3211,Kirana,East,43415
+3212,Wholesale,North,85422
+3213,Modern Trade,South,43872
+3214,Wholesale,South,11619
+3215,Kirana,North,28079
+3216,Wholesale,East,29465
+3217,Convenience,West,77466
+3218,Wholesale,North,44739
+3219,Kirana,West,13430
+3220,Wholesale,West,21339
+3221,Modern Trade,North,56893
+3222,Wholesale,East,39031
+3223,Modern Trade,West,33424
+3224,Convenience,North,27965
+3225,Modern Trade,South,55967
+3226,Wholesale,South,24637
+3227,Kirana,South,20619
+3228,Modern Trade,North,62792
+3229,Convenience,South,1532
+3230,Modern Trade,West,13053
+3231,Modern Trade,South,17948
+3232,Modern Trade,South,65703
+3233,Convenience,West,37516
+3234,Wholesale,South,12212
+3235,Modern Trade,West,11355
+3236,Modern Trade,South,66954
+3237,Kirana,West,11392
+3238,Convenience,South,19926
+3239,Modern Trade,West,24033
+3240,Convenience,North,48118
+3241,Modern Trade,West,22350
+3242,Wholesale,South,9683
+3243,Wholesale,South,51064
+3244,Modern Trade,East,50302
+3245,Wholesale,West,91817
+3246,Modern Trade,North,40118
+3247,Wholesale,West,10927
+3248,Kirana,West,88964
+3249,Kirana,North,23963
+3250,Kirana,West,59382
+3251,Convenience,North,86950
+3252,Convenience,North,35479
+3253,Kirana,West,32351
+3254,Convenience,West,40218
+3255,Wholesale,South,45725
+3256,Modern Trade,South,66146
+3257,Modern Trade,East,28931
+3258,Modern Trade,East,34208
+3259,Kirana,West,21761
+3260,Convenience,North,21668
+3261,Wholesale,East,15893
+3262,Wholesale,West,22992
+3263,Kirana,East,14225
+3264,Wholesale,North,61014
+3265,Wholesale,West,52298
+3266,Wholesale,North,30721
+3267,Wholesale,West,39453
+3268,Convenience,East,15910
+3269,Wholesale,South,32240
+3270,Modern Trade,East,72229
+3271,Kirana,East,70577
+3272,Convenience,South,93028
+3273,Wholesale,South,60915
+3274,Convenience,West,42014
+3275,Wholesale,West,58741
+3276,Modern Trade,North,11772
+3277,Kirana,North,55738
+3278,Wholesale,East,62347
+3279,Wholesale,South,31834
+3280,Wholesale,North,34563
+3281,Wholesale,East,26929
+3282,Kirana,South,31096
+3283,Kirana,West,37750
+3284,Modern Trade,East,40664
+3285,Kirana,West,16137
+3286,Wholesale,North,18769
+3287,Modern Trade,North,52331
+3288,Modern Trade,South,43432
+3289,Modern Trade,East,17334
+3290,Wholesale,West,30026
+3291,Convenience,South,101835
+3292,Wholesale,North,3420
+3293,Kirana,North,1556
+3294,Kirana,East,3513
+3295,Wholesale,West,128265
+3296,Wholesale,East,13118
+3297,Modern Trade,West,25768
+3298,Wholesale,West,49332
+3299,Modern Trade,East,47051
+3300,Kirana,South,27176
+3301,Modern Trade,East,83021
+3302,Wholesale,East,57163
+3303,Kirana,North,19525
+3304,Convenience,North,13724
+3305,Modern Trade,East,37286
+3306,Kirana,East,59069
+3307,Modern Trade,North,103399
+3308,Kirana,West,41927
+3309,Kirana,East,24858
+3310,Modern Trade,South,78156
+3311,Convenience,South,71102
+3312,Kirana,South,56750
+3313,Kirana,East,11297
+3314,Kirana,West,25909
+3315,Convenience,West,28662
+3316,Convenience,North,56769
+3317,Wholesale,East,5106
+3318,Modern Trade,West,24314
+3319,Convenience,East,33797
+3320,Modern Trade,North,27873
+3321,Wholesale,North,96258
+3322,Modern Trade,North,66571
+3323,Convenience,South,66451
+3324,Modern Trade,East,22864
+3325,Convenience,North,38024
+3326,Modern Trade,East,15839
+3327,Convenience,South,16262
+3328,Convenience,South,66992
+3329,Modern Trade,North,59482
+3330,Wholesale,North,14835
+3331,Kirana,West,36201
+3332,Wholesale,East,7957
+3333,Modern Trade,North,48777
+3334,Wholesale,West,14508
+3335,Convenience,East,36279
+3336,Kirana,North,101280
+3337,Modern Trade,West,12865
+3338,Modern Trade,West,43121
+3339,Modern Trade,East,32397
+3340,Kirana,West,11841
+3341,Convenience,East,18313
+3342,Modern Trade,East,45796
+3343,Wholesale,East,28327
+3344,Modern Trade,South,84749
+3345,Modern Trade,West,47365
+3346,Modern Trade,East,13779
+3347,Modern Trade,North,61118
+3348,Convenience,South,66307
+3349,Wholesale,South,40970
+3350,Convenience,West,50192
+3351,Wholesale,East,40562
+3352,Modern Trade,West,76433
+3353,Kirana,South,70368
+3354,Convenience,East,7932
+3355,Kirana,North,7061
+3356,Convenience,East,28731
+3357,Modern Trade,South,58535
+3358,Convenience,North,74553
+3359,Modern Trade,East,25187
+3360,Convenience,North,28141
+3361,Modern Trade,North,26381
+3362,Modern Trade,South,31338
+3363,Wholesale,North,37590
+3364,Modern Trade,West,23008
+3365,Wholesale,South,26314
+3366,Modern Trade,West,44250
+3367,Kirana,North,10562
+3368,Modern Trade,West,107800
+3369,Kirana,East,57440
+3370,Kirana,North,82259
+3371,Modern Trade,East,15379
+3372,Kirana,West,20361
+3373,Wholesale,East,2408
+3374,Convenience,North,34593
+3375,Modern Trade,East,35387
+3376,Kirana,West,41043
+3377,Modern Trade,West,6510
+3378,Wholesale,West,32536
+3379,Modern Trade,North,42728
+3380,Modern Trade,West,47626
+3381,Kirana,North,21124
+3382,Wholesale,East,118433
+3383,Convenience,West,27929
+3384,Convenience,East,37313
+3385,Kirana,South,25430
+3386,Modern Trade,East,21389
+3387,Kirana,South,53375
+3388,Kirana,East,6842
+3389,Kirana,North,55667
+3390,Modern Trade,East,36660
+3391,Wholesale,North,29127
+3392,Kirana,North,11237
+3393,Modern Trade,West,34437
+3394,Wholesale,North,52967
+3395,Kirana,South,37804
+3396,Convenience,West,31753
+3397,Wholesale,West,27559
+3398,Kirana,East,23381
+3399,Wholesale,North,12067
+3400,Wholesale,North,52248
+3401,Wholesale,South,39749
+3402,Wholesale,East,54600
+3403,Wholesale,East,23043
+3404,Wholesale,West,29206
+3405,Kirana,West,11412
+3406,Convenience,West,7272
+3407,Modern Trade,South,35803
+3408,Wholesale,South,3418
+3409,Modern Trade,West,42964
+3410,Kirana,East,20506
+3411,Wholesale,South,132221
+3412,Convenience,East,33986
+3413,Modern Trade,East,50488
+3414,Wholesale,North,19018
+3415,Kirana,West,72841
+3416,Convenience,North,76803
+3417,Modern Trade,West,64969
+3418,Modern Trade,West,116215
+3419,Wholesale,East,12848
+3420,Convenience,West,53197
+3421,Convenience,East,17403
+3422,Convenience,East,13384
+3423,Convenience,West,32562
+3424,Kirana,East,39967
+3425,Convenience,East,30800
+3426,Modern Trade,East,10086
+3427,Modern Trade,South,35108
+3428,Kirana,East,32935
+3429,Modern Trade,South,13883
+3430,Modern Trade,South,86770
+3431,Convenience,East,109293
+3432,Modern Trade,East,36833
+3433,Kirana,South,1677
+3434,Convenience,South,33234
+3435,Wholesale,East,70252
+3436,Convenience,East,33827
+3437,Kirana,West,30591
+3438,Convenience,South,53879
+3439,Convenience,South,133284
+3440,Kirana,West,42758
+3441,Convenience,South,37121
+3442,Kirana,North,80911
+3443,Kirana,South,46677
+3444,Wholesale,West,100671
+3445,Modern Trade,North,13626
+3446,Modern Trade,East,13801
+3447,Convenience,West,16372
+3448,Convenience,West,62015
+3449,Wholesale,East,42934
+3450,Wholesale,West,27243
+3451,Wholesale,South,43158
+3452,Kirana,East,68478
+3453,Wholesale,West,26103
+3454,Wholesale,East,56922
+3455,Convenience,East,23601
+3456,Wholesale,East,7691
+3457,Kirana,North,33853
+3458,Kirana,West,6687
+3459,Convenience,North,25782
+3460,Wholesale,West,37401
+3461,Wholesale,South,16493
+3462,Kirana,South,50779
+3463,Wholesale,South,27779
+3464,Wholesale,West,51897
+3465,Wholesale,East,32966
+3466,Modern Trade,East,28513
+3467,Convenience,North,16604
+3468,Modern Trade,North,34239
+3469,Convenience,South,37623
+3470,Kirana,North,43642
+3471,Wholesale,West,40624
+3472,Convenience,West,9959
+3473,Modern Trade,North,66469
+3474,Wholesale,North,44780
+3475,Kirana,North,34928
+3476,Convenience,North,43310
+3477,Convenience,South,49323
+3478,Convenience,South,112488
+3479,Wholesale,North,21125
+3480,Modern Trade,West,21621
+3481,Modern Trade,South,12887
+3482,Convenience,West,4738
+3483,Kirana,East,45608
+3484,Kirana,West,115508
+3485,Modern Trade,North,26789
+3486,Kirana,East,76395
+3487,Modern Trade,South,27134
+3488,Convenience,South,73952
+3489,Modern Trade,East,43056
+3490,Modern Trade,West,34466
+3491,Convenience,South,21349
+3492,Kirana,North,35779
+3493,Modern Trade,East,61152
+3494,Modern Trade,North,19091
+3495,Convenience,East,31732
+3496,Kirana,South,39224
+3497,Modern Trade,West,59743
+3498,Convenience,East,36563
+3499,Modern Trade,East,27339
+3500,Wholesale,North,41139
+3501,Convenience,South,72763
+3502,Kirana,North,46528
+3503,Kirana,South,32364
+3504,Kirana,North,35286
+3505,Kirana,East,13595
+3506,Modern Trade,North,56343
+3507,Modern Trade,West,10244
+3508,Kirana,South,23948
+3509,Kirana,South,29483
+3510,Kirana,East,23906
+3511,Modern Trade,South,14199
+3512,Kirana,West,19451
+3513,Kirana,North,9649
+3514,Wholesale,East,92456
+3515,Wholesale,West,21821
+3516,Kirana,South,20099
+3517,Convenience,South,115138
+3518,Kirana,West,7289
+3519,Wholesale,North,50300
+3520,Convenience,North,34712
+3521,Convenience,East,14405
+3522,Kirana,South,36637
+3523,Wholesale,West,102450
+3524,Wholesale,North,50007
+3525,Convenience,East,45473
+3526,Kirana,South,11179
+3527,Modern Trade,South,16708
+3528,Modern Trade,East,7931
+3529,Wholesale,East,35599
+3530,Modern Trade,North,34477
+3531,Wholesale,West,16801
+3532,Wholesale,South,61352
+3533,Wholesale,West,10431
+3534,Modern Trade,South,18013
+3535,Wholesale,South,36486
+3536,Convenience,West,11817
+3537,Kirana,East,26292
+3538,Kirana,North,19179
+3539,Wholesale,South,40558
+3540,Kirana,East,9520
+3541,Modern Trade,South,3757
+3542,Modern Trade,North,11348
+3543,Kirana,South,62013
+3544,Modern Trade,North,58924
+3545,Kirana,North,15072
+3546,Kirana,South,31678
+3547,Kirana,South,33808
+3548,Wholesale,North,9006
+3549,Kirana,East,19600
+3550,Wholesale,West,28426
+3551,Kirana,North,2877
+3552,Kirana,South,36361
+3553,Kirana,South,47289
+3554,Modern Trade,East,39288
+3555,Wholesale,West,55200
+3556,Wholesale,North,45607
+3557,Kirana,North,61049
+3558,Kirana,West,4225
+3559,Modern Trade,North,24303
+3560,Modern Trade,West,13653
+3561,Modern Trade,South,4381
+3562,Wholesale,West,29790
+3563,Wholesale,North,63327
+3564,Wholesale,West,20312
+3565,Kirana,East,42484
+3566,Wholesale,South,76804
+3567,Convenience,South,27135
+3568,Convenience,West,68663
+3569,Modern Trade,North,64133
+3570,Wholesale,East,41548
+3571,Convenience,South,10876
+3572,Modern Trade,South,4122
+3573,Wholesale,North,18221
+3574,Kirana,North,23109
+3575,Convenience,East,27119
+3576,Kirana,West,50916
+3577,Wholesale,North,17536
+3578,Convenience,West,51872
+3579,Wholesale,East,96311
+3580,Kirana,West,28961
+3581,Convenience,South,38582
+3582,Kirana,West,92405
+3583,Wholesale,East,56634
+3584,Wholesale,East,18045
+3585,Kirana,East,101412
+3586,Convenience,West,37934
+3587,Kirana,South,19879
+3588,Wholesale,North,6690
+3589,Kirana,South,17725
+3590,Wholesale,West,36722
+3591,Kirana,West,13684
+3592,Convenience,North,15697
+3593,Convenience,West,79407
+3594,Kirana,East,38394
+3595,Kirana,East,7965
+3596,Convenience,East,53505
+3597,Wholesale,East,4154
+3598,Convenience,East,36720
+3599,Wholesale,West,33373
+3600,Kirana,North,133649
+3601,Kirana,North,66605
+3602,Wholesale,East,31988
+3603,Kirana,West,59628
+3604,Wholesale,South,4628
+3605,Modern Trade,South,33083
+3606,Convenience,West,19161
+3607,Modern Trade,East,36071
+3608,Wholesale,North,3955
+3609,Convenience,West,52457
+3610,Wholesale,South,45792
+3611,Convenience,South,68117
+3612,Convenience,South,23033
+3613,Convenience,East,53883
+3614,Convenience,South,107173
+3615,Wholesale,West,25985
+3616,Convenience,West,9251
+3617,Convenience,South,51561
+3618,Modern Trade,West,24158
+3619,Kirana,South,13055
+3620,Kirana,South,15565
+3621,Modern Trade,North,7919
+3622,Modern Trade,East,13105
+3623,Wholesale,East,43361
+3624,Wholesale,North,44545
+3625,Wholesale,North,16964
+3626,Modern Trade,East,129239
+3627,Modern Trade,South,35519
+3628,Convenience,South,41385
+3629,Wholesale,East,47961
+3630,Wholesale,South,17873
+3631,Wholesale,North,61916
+3632,Kirana,South,6891
+3633,Convenience,South,11735
+3634,Wholesale,West,18016
+3635,Wholesale,West,38601
+3636,Wholesale,West,9904
+3637,Kirana,South,10832
+3638,Kirana,East,85481
+3639,Modern Trade,North,78168
+3640,Convenience,South,9497
+3641,Modern Trade,East,16541
+3642,Convenience,South,31372
+3643,Kirana,North,50033
+3644,Wholesale,South,22668
+3645,Modern Trade,North,20434
+3646,Wholesale,South,71741
+3647,Modern Trade,North,17933
+3648,Kirana,South,25820
+3649,Kirana,North,46613
+3650,Kirana,West,48064
+3651,Modern Trade,South,44570
+3652,Convenience,South,42686
+3653,Modern Trade,East,38760
+3654,Convenience,East,27141
+3655,Modern Trade,North,61831
+3656,Modern Trade,South,49834
+3657,Kirana,North,19962
+3658,Wholesale,West,26288
+3659,Wholesale,East,10728
+3660,Convenience,North,22305
+3661,Wholesale,North,12109
+3662,Modern Trade,East,63030
+3663,Modern Trade,South,147540
+3664,Kirana,North,11189
+3665,Kirana,East,28495
+3666,Wholesale,South,24971
+3667,Convenience,West,3450
+3668,Wholesale,East,18590
+3669,Wholesale,North,104374
+3670,Wholesale,West,36681
+3671,Wholesale,South,28862
+3672,Modern Trade,South,12279
+3673,Convenience,East,57172
+3674,Modern Trade,East,21570
+3675,Convenience,East,17613
+3676,Kirana,South,53207
+3677,Wholesale,West,28674
+3678,Modern Trade,South,14033
+3679,Convenience,North,56320
+3680,Kirana,South,35727
+3681,Kirana,North,56787
+3682,Wholesale,West,29819
+3683,Convenience,East,155018
+3684,Modern Trade,East,6613
+3685,Wholesale,South,143602
+3686,Modern Trade,East,20038
+3687,Kirana,West,7019
+3688,Modern Trade,East,38280
+3689,Modern Trade,South,71469
+3690,Wholesale,West,44275
+3691,Modern Trade,North,5452
+3692,Wholesale,South,6197
+3693,Kirana,North,7696
+3694,Wholesale,West,18507
+3695,Wholesale,South,9016
+3696,Convenience,South,26158
+3697,Modern Trade,West,4407
+3698,Kirana,East,27578
+3699,Wholesale,South,42559
+3700,Kirana,South,71356
+3701,Convenience,North,37771
+3702,Modern Trade,East,82018
+3703,Wholesale,North,37822
+3704,Modern Trade,North,10463
+3705,Convenience,East,24028
+3706,Convenience,East,17688
+3707,Kirana,West,33982
+3708,Wholesale,East,3107
+3709,Kirana,South,76961
+3710,Convenience,East,51642
+3711,Modern Trade,West,31827
+3712,Kirana,West,149827
+3713,Kirana,West,103686
+3714,Modern Trade,East,48163
+3715,Kirana,East,32832
+3716,Modern Trade,North,26039
+3717,Wholesale,North,24462
+3718,Modern Trade,South,17180
+3719,Wholesale,North,17282
+3720,Modern Trade,South,30393
+3721,Convenience,West,67747
+3722,Convenience,North,30118
+3723,Wholesale,East,8570
+3724,Wholesale,North,24985
+3725,Convenience,South,13250
+3726,Wholesale,North,90741
+3727,Modern Trade,West,3416
+3728,Modern Trade,East,32499
+3729,Convenience,South,12054
+3730,Kirana,East,26014
+3731,Modern Trade,East,32110
+3732,Wholesale,South,59175
+3733,Kirana,East,22462
+3734,Kirana,East,31365
+3735,Modern Trade,North,77360
+3736,Modern Trade,East,77215
+3737,Kirana,East,125974
+3738,Kirana,East,14142
+3739,Convenience,East,127347
+3740,Wholesale,South,24746
+3741,Convenience,West,88762
+3742,Modern Trade,North,57423
+3743,Convenience,East,21463
+3744,Convenience,East,110524
+3745,Convenience,South,82366
+3746,Convenience,West,10063
+3747,Wholesale,East,22960
+3748,Wholesale,South,52066
+3749,Kirana,North,8400
+3750,Modern Trade,North,29504
+3751,Convenience,East,67778
+3752,Kirana,East,29488
+3753,Kirana,West,37830
+3754,Kirana,West,64250
+3755,Wholesale,East,44395
+3756,Convenience,South,29310
+3757,Convenience,West,87822
+3758,Modern Trade,East,34977
+3759,Convenience,West,32133
+3760,Convenience,East,86748
+3761,Kirana,North,45677
+3762,Modern Trade,East,12487
+3763,Convenience,North,13982
+3764,Wholesale,West,17620
+3765,Convenience,East,66379
+3766,Kirana,West,61474
+3767,Wholesale,North,37292
+3768,Kirana,East,14151
+3769,Convenience,West,24234
+3770,Wholesale,North,80863
+3771,Modern Trade,West,28727
+3772,Modern Trade,South,27789
+3773,Wholesale,North,18858
+3774,Wholesale,North,67851
+3775,Kirana,North,16510
+3776,Wholesale,East,55624
+3777,Kirana,East,21671
+3778,Convenience,East,48341
+3779,Kirana,South,40052
+3780,Wholesale,South,30882
+3781,Wholesale,North,24919
+3782,Convenience,South,43179
+3783,Wholesale,West,39731
+3784,Wholesale,North,19681
+3785,Modern Trade,North,73246
+3786,Modern Trade,West,62440
+3787,Convenience,North,14432
+3788,Kirana,South,16043
+3789,Modern Trade,East,4989
+3790,Kirana,West,58176
+3791,Wholesale,South,25827
+3792,Modern Trade,West,32744
+3793,Convenience,West,15519
+3794,Convenience,North,32798
+3795,Convenience,North,41427
+3796,Modern Trade,South,9550
+3797,Kirana,West,40751
+3798,Wholesale,North,39178
+3799,Kirana,North,83979
+3800,Kirana,West,42617
+3801,Wholesale,South,14012
+3802,Wholesale,South,15150
+3803,Modern Trade,West,38799
+3804,Modern Trade,South,25184
+3805,Modern Trade,North,55115
+3806,Modern Trade,West,9153
+3807,Modern Trade,North,59969
+3808,Wholesale,East,37828
+3809,Kirana,East,85413
+3810,Modern Trade,South,30169
+3811,Modern Trade,East,14567
+3812,Kirana,North,13261
+3813,Modern Trade,East,42622
+3814,Kirana,North,10845
+3815,Kirana,South,126572
+3816,Wholesale,South,29236
+3817,Convenience,North,91651
+3818,Wholesale,East,6620
+3819,Convenience,South,1910
+3820,Convenience,West,17742
+3821,Convenience,South,44632
+3822,Modern Trade,East,36159
+3823,Wholesale,West,20191
+3824,Convenience,East,44159
+3825,Kirana,North,27123
+3826,Modern Trade,West,11178
+3827,Wholesale,East,101043
+3828,Convenience,West,1710
+3829,Kirana,East,40163
+3830,Wholesale,West,34448
+3831,Wholesale,East,35137
+3832,Modern Trade,North,68968
+3833,Wholesale,West,12904
+3834,Modern Trade,West,12270
+3835,Convenience,West,69090
+3836,Modern Trade,West,51525
+3837,Kirana,North,88185
+3838,Modern Trade,West,28205
+3839,Kirana,South,27480
+3840,Modern Trade,North,64092
+3841,Wholesale,South,79879
+3842,Convenience,West,11313
+3843,Kirana,East,122004
+3844,Modern Trade,South,22844
+3845,Modern Trade,West,39878
+3846,Modern Trade,South,50935
+3847,Wholesale,West,70281
+3848,Wholesale,West,56913
+3849,Kirana,West,35753
+3850,Kirana,East,56516
+3851,Wholesale,South,24990
+3852,Kirana,North,21138
+3853,Convenience,North,34855
+3854,Convenience,North,77042
+3855,Wholesale,North,50097
+3856,Kirana,West,23319
+3857,Modern Trade,South,31604
+3858,Convenience,South,66381
+3859,Wholesale,East,41321
+3860,Kirana,South,37633
+3861,Wholesale,South,38274
+3862,Modern Trade,South,11914
+3863,Convenience,East,5477
+3864,Wholesale,North,71800
+3865,Wholesale,South,34663
+3866,Wholesale,East,39054
+3867,Modern Trade,East,23963
+3868,Wholesale,West,89202
+3869,Modern Trade,East,22241
+3870,Modern Trade,North,26929
+3871,Modern Trade,South,70799
+3872,Convenience,East,22871
+3873,Convenience,North,39499
+3874,Wholesale,East,9709
+3875,Wholesale,East,15692
+3876,Convenience,East,8237
+3877,Kirana,East,35971
+3878,Convenience,East,37765
+3879,Modern Trade,North,39479
+3880,Convenience,South,27697
+3881,Modern Trade,South,28904
+3882,Wholesale,South,19497
+3883,Kirana,South,24876
+3884,Wholesale,North,10234
+3885,Modern Trade,West,44086
+3886,Modern Trade,West,58828
+3887,Modern Trade,North,29681
+3888,Kirana,North,29003
+3889,Convenience,East,36064
+3890,Wholesale,East,87582
+3891,Wholesale,East,31654
+3892,Convenience,South,33814
+3893,Wholesale,East,153166
+3894,Kirana,West,28202
+3895,Wholesale,South,43267
+3896,Modern Trade,East,41957
+3897,Convenience,South,25325
+3898,Kirana,West,45355
+3899,Convenience,East,8817
+3900,Kirana,West,28937
+3901,Modern Trade,West,15360
+3902,Convenience,West,46188
+3903,Wholesale,East,7415
+3904,Kirana,North,53392
+3905,Convenience,East,1487
+3906,Wholesale,West,44053
+3907,Convenience,East,13150
+3908,Convenience,West,20269
+3909,Convenience,North,27802
+3910,Kirana,South,91882
+3911,Wholesale,North,13009
+3912,Modern Trade,North,32615
+3913,Kirana,South,75219
+3914,Kirana,East,33755
+3915,Kirana,South,48946
+3916,Modern Trade,East,68236
+3917,Wholesale,East,19868
+3918,Wholesale,West,21934
+3919,Wholesale,West,12798
+3920,Convenience,South,75832
+3921,Convenience,North,101401
+3922,Convenience,South,9616
+3923,Modern Trade,East,40641
+3924,Convenience,West,20075
+3925,Modern Trade,South,21078
+3926,Wholesale,South,50891
+3927,Convenience,West,34720
+3928,Convenience,West,47572
+3929,Kirana,West,99533
+3930,Modern Trade,East,42146
+3931,Wholesale,West,52183
+3932,Kirana,North,66496
+3933,Kirana,South,18395
+3934,Wholesale,West,55736
+3935,Kirana,West,20630
+3936,Modern Trade,East,10628
+3937,Modern Trade,East,44848
+3938,Convenience,South,11812
+3939,Kirana,North,34903
+3940,Convenience,South,29074
+3941,Kirana,West,82934
+3942,Modern Trade,North,11743
+3943,Modern Trade,North,42341
+3944,Modern Trade,North,16798
+3945,Kirana,North,7447
+3946,Modern Trade,South,4069
+3947,Kirana,East,12173
+3948,Convenience,East,11672
+3949,Kirana,West,4279
+3950,Convenience,East,61009
+3951,Kirana,East,72316
+3952,Convenience,East,17706
+3953,Modern Trade,East,23365
+3954,Convenience,West,27451
+3955,Modern Trade,South,66395
+3956,Modern Trade,North,67328
+3957,Convenience,East,41782
+3958,Kirana,South,40764
+3959,Kirana,East,21727
+3960,Wholesale,East,4141
+3961,Kirana,North,26618
+3962,Wholesale,North,75448
+3963,Kirana,North,19169
+3964,Kirana,East,24711
+3965,Modern Trade,East,57288
+3966,Wholesale,East,23864
+3967,Kirana,North,27430
+3968,Wholesale,West,58202
+3969,Modern Trade,South,4065
+3970,Modern Trade,West,11384
+3971,Wholesale,East,107936
+3972,Modern Trade,East,57906
+3973,Convenience,West,63336
+3974,Convenience,East,40989
+3975,Modern Trade,South,44839
+3976,Convenience,East,19724
+3977,Kirana,South,26499
+3978,Wholesale,West,64672
+3979,Kirana,West,22513
+3980,Wholesale,East,19169
+3981,Modern Trade,South,32460
+3982,Kirana,East,41206
+3983,Modern Trade,North,78682
+3984,Modern Trade,North,174634
+3985,Wholesale,North,14409
+3986,Wholesale,North,53298
+3987,Wholesale,East,35330
+3988,Kirana,North,5343
+3989,Convenience,South,90675
+3990,Wholesale,West,24139
+3991,Wholesale,West,22974
+3992,Kirana,North,90653
+3993,Wholesale,North,31672
+3994,Kirana,North,73276
+3995,Modern Trade,East,27421
+3996,Wholesale,West,48054
+3997,Wholesale,North,30052
+3998,Modern Trade,South,16589
+3999,Modern Trade,North,49177
+4000,Modern Trade,West,57371
+4001,Wholesale,North,33371
+4002,Convenience,West,4158
+4003,Convenience,North,11776
+4004,Convenience,South,21545
+4005,Wholesale,North,85914
+4006,Modern Trade,South,31984
+4007,Wholesale,South,84878
+4008,Modern Trade,North,67255
+4009,Wholesale,South,22921
+4010,Wholesale,East,38769
+4011,Modern Trade,North,58406
+4012,Convenience,North,17363
+4013,Modern Trade,South,55316
+4014,Kirana,South,50703
+4015,Kirana,North,16519
+4016,Modern Trade,East,47338
+4017,Wholesale,South,30785
+4018,Kirana,South,9389
+4019,Kirana,West,21546
+4020,Wholesale,East,20894
+4021,Wholesale,East,96279
+4022,Convenience,North,11972
+4023,Wholesale,East,19142
+4024,Modern Trade,North,44258
+4025,Modern Trade,West,34722
+4026,Convenience,East,28490
+4027,Kirana,South,28071
+4028,Kirana,West,63799
+4029,Wholesale,North,16843
+4030,Modern Trade,West,12800
+4031,Kirana,North,4001
+4032,Convenience,West,22530
+4033,Convenience,North,9944
+4034,Modern Trade,East,25880
+4035,Convenience,South,5729
+4036,Convenience,North,25571
+4037,Modern Trade,West,41719
+4038,Wholesale,North,32192
+4039,Wholesale,North,52002
+4040,Convenience,North,71635
+4041,Wholesale,West,40913
+4042,Wholesale,South,32799
+4043,Convenience,East,45218
+4044,Wholesale,South,41968
+4045,Convenience,North,58769
+4046,Kirana,West,34483
+4047,Modern Trade,South,10867
+4048,Modern Trade,North,69251
+4049,Wholesale,East,6140
+4050,Wholesale,East,55311
+4051,Wholesale,East,44488
+4052,Modern Trade,North,45351
+4053,Kirana,West,35231
+4054,Kirana,South,18502
+4055,Modern Trade,East,30553
+4056,Kirana,North,76096
+4057,Modern Trade,North,46402
+4058,Kirana,South,46767
+4059,Convenience,East,77401
+4060,Convenience,North,83618
+4061,Modern Trade,South,57109
+4062,Kirana,West,115856
+4063,Wholesale,West,46178
+4064,Kirana,West,56968
+4065,Convenience,East,65833
+4066,Convenience,South,80819
+4067,Kirana,South,15269
+4068,Kirana,North,10023
+4069,Wholesale,North,11580
+4070,Wholesale,North,22648
+4071,Kirana,South,67406
+4072,Kirana,North,27586
+4073,Kirana,South,30731
+4074,Kirana,South,10033
+4075,Modern Trade,West,11153
+4076,Kirana,North,22044
+4077,Wholesale,West,17744
+4078,Convenience,East,57881
+4079,Modern Trade,East,9979
+4080,Kirana,East,12395
+4081,Convenience,South,41861
+4082,Modern Trade,South,27880
+4083,Convenience,South,26054
+4084,Kirana,North,66821
+4085,Kirana,West,26667
+4086,Wholesale,South,34252
+4087,Kirana,West,22224
+4088,Kirana,West,30797
+4089,Modern Trade,West,59244
+4090,Wholesale,North,24459
+4091,Modern Trade,North,38335
+4092,Convenience,East,24733
+4093,Kirana,East,3813
+4094,Convenience,West,18192
+4095,Modern Trade,East,21717
+4096,Kirana,West,34025
+4097,Kirana,North,51052
+4098,Modern Trade,North,28681
+4099,Modern Trade,North,24077
+4100,Modern Trade,South,40451
+4101,Modern Trade,West,32822
+4102,Modern Trade,North,9895
+4103,Kirana,West,85242
+4104,Modern Trade,East,25513
+4105,Kirana,East,32819
+4106,Kirana,North,7965
+4107,Modern Trade,West,69612
+4108,Modern Trade,North,22820
+4109,Wholesale,East,91410
+4110,Kirana,North,31608
+4111,Modern Trade,West,48886
+4112,Modern Trade,East,24581
+4113,Modern Trade,South,10649
+4114,Wholesale,East,44147
+4115,Wholesale,South,43807
+4116,Convenience,North,2820
+4117,Kirana,North,9633
+4118,Convenience,West,68561
+4119,Modern Trade,South,22944
+4120,Wholesale,North,53248
+4121,Wholesale,South,120619
+4122,Convenience,North,45815
+4123,Wholesale,East,32008
+4124,Modern Trade,North,18012
+4125,Wholesale,West,40555
+4126,Convenience,East,43995
+4127,Modern Trade,West,34669
+4128,Convenience,East,54747
+4129,Wholesale,South,11657
+4130,Convenience,West,35161
+4131,Convenience,North,32117
+4132,Kirana,South,20440
+4133,Wholesale,North,43238
+4134,Wholesale,East,10581
+4135,Convenience,East,17039
+4136,Kirana,North,25015
+4137,Wholesale,North,28155
+4138,Modern Trade,South,44868
+4139,Convenience,North,48322
+4140,Wholesale,West,16581
+4141,Modern Trade,West,90881
+4142,Wholesale,North,42943
+4143,Modern Trade,West,109152
+4144,Convenience,North,79679
+4145,Wholesale,South,20886
+4146,Wholesale,West,10535
+4147,Kirana,West,8146
+4148,Convenience,North,3313
+4149,Modern Trade,West,38781
+4150,Wholesale,East,19498
+4151,Wholesale,South,50403
+4152,Modern Trade,South,20370
+4153,Convenience,West,16398
+4154,Kirana,West,48222
+4155,Kirana,East,127444
+4156,Wholesale,East,78420
+4157,Modern Trade,West,48805
+4158,Wholesale,West,73149
+4159,Modern Trade,East,45190
+4160,Kirana,North,2836
+4161,Convenience,East,55373
+4162,Modern Trade,North,47641
+4163,Kirana,South,63343
+4164,Wholesale,South,19377
+4165,Modern Trade,East,70163
+4166,Convenience,North,11484
+4167,Wholesale,East,36688
+4168,Wholesale,East,32498
+4169,Kirana,North,1611
+4170,Modern Trade,East,21327
+4171,Wholesale,South,47152
+4172,Convenience,West,21806
+4173,Modern Trade,West,85428
+4174,Convenience,East,38909
+4175,Wholesale,North,26703
+4176,Convenience,North,70421
+4177,Kirana,South,23458
+4178,Convenience,North,12460
+4179,Modern Trade,North,49820
+4180,Convenience,South,10370
+4181,Convenience,East,22153
+4182,Kirana,West,33960
+4183,Convenience,South,26448
+4184,Convenience,East,193475
+4185,Wholesale,South,45531
+4186,Wholesale,East,30179
+4187,Modern Trade,South,19867
+4188,Wholesale,East,42686
+4189,Wholesale,South,72462
+4190,Wholesale,East,6933
+4191,Wholesale,South,41872
+4192,Kirana,West,28822
+4193,Wholesale,West,57378
+4194,Kirana,North,34280
+4195,Kirana,East,46661
+4196,Wholesale,South,113872
+4197,Convenience,East,58709
+4198,Kirana,West,26314
+4199,Convenience,East,14142
+4200,Convenience,South,28881
+4201,Wholesale,East,14343
+4202,Modern Trade,South,36600
+4203,Wholesale,West,36680
+4204,Modern Trade,West,8556
+4205,Modern Trade,West,35855
+4206,Wholesale,North,91797
+4207,Wholesale,West,34884
+4208,Modern Trade,East,24084
+4209,Wholesale,North,55543
+4210,Modern Trade,West,29374
+4211,Convenience,East,31233
+4212,Wholesale,East,70424
+4213,Convenience,East,15250
+4214,Kirana,South,62497
+4215,Convenience,North,8102
+4216,Convenience,East,122500
+4217,Modern Trade,South,15650
+4218,Convenience,West,35435
+4219,Wholesale,East,82209
+4220,Modern Trade,South,8322
+4221,Kirana,East,21861
+4222,Wholesale,North,59111
+4223,Kirana,North,5418
+4224,Convenience,West,47461
+4225,Wholesale,East,42536
+4226,Wholesale,South,4627
+4227,Kirana,West,3842
+4228,Wholesale,East,3306
+4229,Wholesale,West,41068
+4230,Wholesale,South,17794
+4231,Convenience,West,7483
+4232,Kirana,West,65623
+4233,Wholesale,West,86549
+4234,Modern Trade,East,82959
+4235,Modern Trade,South,35566
+4236,Modern Trade,North,4047
+4237,Modern Trade,East,7152
+4238,Convenience,North,11523
+4239,Wholesale,North,18752
+4240,Kirana,East,81410
+4241,Wholesale,East,43445
+4242,Convenience,South,34000
+4243,Modern Trade,South,36905
+4244,Convenience,West,63029
+4245,Wholesale,North,60255
+4246,Kirana,South,33662
+4247,Convenience,West,72163
+4248,Kirana,South,22207
+4249,Convenience,East,57775
+4250,Kirana,South,70796
+4251,Kirana,North,62642
+4252,Modern Trade,South,13680
+4253,Kirana,North,27837
+4254,Modern Trade,East,5065
+4255,Wholesale,North,9562
+4256,Wholesale,South,26418
+4257,Modern Trade,West,35034
+4258,Modern Trade,East,43313
+4259,Convenience,South,9360
+4260,Convenience,East,29505
+4261,Convenience,East,64779
+4262,Wholesale,South,39758
+4263,Convenience,South,49122
+4264,Kirana,West,35053
+4265,Kirana,East,17381
+4266,Convenience,East,12642
+4267,Kirana,South,27816
+4268,Wholesale,North,53487
+4269,Kirana,South,15002
+4270,Wholesale,East,21642
+4271,Modern Trade,South,33522
+4272,Modern Trade,West,97637
+4273,Modern Trade,North,41867
+4274,Modern Trade,South,40944
+4275,Kirana,West,24588
+4276,Convenience,East,100154
+4277,Kirana,South,35801
+4278,Wholesale,East,66621
+4279,Kirana,West,12676
+4280,Kirana,East,30316
+4281,Wholesale,West,177852
+4282,Modern Trade,West,36518
+4283,Modern Trade,West,23790
+4284,Modern Trade,South,68392
+4285,Convenience,East,25820
+4286,Wholesale,East,27250
+4287,Wholesale,North,5619
+4288,Kirana,North,3039
+4289,Convenience,North,44952
+4290,Modern Trade,North,22009
+4291,Convenience,East,51289
+4292,Wholesale,West,42649
+4293,Wholesale,West,35181
+4294,Kirana,South,27408
+4295,Kirana,West,15980
+4296,Wholesale,East,14776
+4297,Modern Trade,East,7979
+4298,Modern Trade,East,32430
+4299,Convenience,South,97763
+4300,Wholesale,North,128822
+4301,Wholesale,West,15459
+4302,Modern Trade,East,61447
+4303,Modern Trade,East,80893
+4304,Wholesale,North,19353
+4305,Kirana,East,55387
+4306,Wholesale,West,72519
+4307,Wholesale,South,7845
+4308,Modern Trade,East,46401
+4309,Modern Trade,West,12818
+4310,Kirana,East,47810
+4311,Kirana,North,33276
+4312,Convenience,East,6132
+4313,Wholesale,East,18076
+4314,Modern Trade,South,16193
+4315,Kirana,North,70561
+4316,Convenience,North,30960
+4317,Convenience,South,14935
+4318,Modern Trade,East,51755
+4319,Modern Trade,West,26305
+4320,Convenience,North,38788
+4321,Kirana,North,29023
+4322,Convenience,East,125864
+4323,Wholesale,East,38525
+4324,Wholesale,North,56146
+4325,Modern Trade,East,70338
+4326,Kirana,West,31222
+4327,Kirana,North,82109
+4328,Wholesale,West,61862
+4329,Convenience,West,3614
+4330,Modern Trade,East,17252
+4331,Convenience,West,31603
+4332,Convenience,East,34515
+4333,Convenience,South,19769
+4334,Kirana,East,45375
+4335,Wholesale,West,25705
+4336,Kirana,South,32286
+4337,Wholesale,East,24829
+4338,Modern Trade,West,27611
+4339,Modern Trade,North,13539
+4340,Convenience,North,42578
+4341,Wholesale,East,49804
+4342,Wholesale,East,9429
+4343,Wholesale,North,20184
+4344,Convenience,West,34114
+4345,Convenience,West,94895
+4346,Modern Trade,West,13350
+4347,Kirana,East,25558
+4348,Wholesale,South,22215
+4349,Wholesale,South,40767
+4350,Kirana,South,13211
+4351,Wholesale,South,19141
+4352,Convenience,South,123553
+4353,Convenience,East,4210
+4354,Wholesale,East,31168
+4355,Convenience,South,32491
+4356,Convenience,East,22890
+4357,Wholesale,East,69598
+4358,Modern Trade,South,38143
+4359,Kirana,West,101020
+4360,Convenience,East,5988
+4361,Modern Trade,West,45215
+4362,Convenience,East,40239
+4363,Convenience,East,48301
+4364,Kirana,South,65482
+4365,Convenience,East,83635
+4366,Kirana,North,113387
+4367,Kirana,North,10643
+4368,Kirana,South,45870
+4369,Modern Trade,West,72484
+4370,Wholesale,West,30784
+4371,Modern Trade,West,14429
+4372,Wholesale,North,14693
+4373,Wholesale,West,18360
+4374,Kirana,West,42996
+4375,Convenience,South,19263
+4376,Kirana,West,33856
+4377,Convenience,North,7859
+4378,Wholesale,North,7828
+4379,Kirana,North,51862
+4380,Convenience,South,1363
+4381,Modern Trade,South,87196
+4382,Convenience,East,43333
+4383,Kirana,West,9624
+4384,Modern Trade,South,41495
+4385,Convenience,North,22799
+4386,Convenience,North,14031
+4387,Convenience,South,74930
+4388,Convenience,South,48699
+4389,Convenience,South,19833
+4390,Modern Trade,East,16765
+4391,Wholesale,North,104924
+4392,Modern Trade,East,44181
+4393,Modern Trade,East,34409
+4394,Modern Trade,West,16599
+4395,Wholesale,North,16313
+4396,Kirana,North,124256
+4397,Wholesale,South,53760
+4398,Modern Trade,South,31980
+4399,Convenience,West,8784
+4400,Convenience,East,21611
+4401,Modern Trade,South,43989
+4402,Convenience,South,72405
+4403,Modern Trade,North,36348
+4404,Convenience,North,71668
+4405,Wholesale,South,36613
+4406,Kirana,North,67496
+4407,Kirana,West,27009
+4408,Wholesale,South,67603
+4409,Wholesale,North,22580
+4410,Modern Trade,West,55678
+4411,Modern Trade,North,38972
+4412,Modern Trade,North,2732
+4413,Convenience,North,17577
+4414,Modern Trade,South,154594
+4415,Wholesale,East,48453
+4416,Kirana,North,21651
+4417,Convenience,West,8578
+4418,Modern Trade,South,35417
+4419,Convenience,South,47907
+4420,Convenience,West,21449
+4421,Modern Trade,North,40773
+4422,Convenience,East,75387
+4423,Kirana,North,15082
+4424,Wholesale,West,20625
+4425,Wholesale,South,6650
+4426,Kirana,East,77826
+4427,Convenience,South,24344
+4428,Modern Trade,West,98196
+4429,Convenience,North,2051
+4430,Kirana,East,42469
+4431,Convenience,South,50943
+4432,Wholesale,South,48512
+4433,Convenience,South,61201
+4434,Kirana,North,39036
+4435,Wholesale,East,37340
+4436,Convenience,North,7161
+4437,Convenience,North,30305
+4438,Wholesale,North,38063
+4439,Modern Trade,West,18042
+4440,Wholesale,West,15835
+4441,Modern Trade,West,48006
+4442,Kirana,East,57036
+4443,Kirana,North,16853
+4444,Wholesale,North,27475
+4445,Wholesale,West,43135
+4446,Kirana,North,18352
+4447,Modern Trade,North,32853
+4448,Kirana,South,39909
+4449,Wholesale,North,110125
+4450,Kirana,South,27816
+4451,Wholesale,North,5647
+4452,Wholesale,East,7628
+4453,Kirana,West,18268
+4454,Modern Trade,South,24910
+4455,Convenience,West,72274
+4456,Kirana,South,29019
+4457,Convenience,South,48716
+4458,Kirana,South,84966
+4459,Convenience,East,55525
+4460,Modern Trade,North,25398
+4461,Modern Trade,South,30476
+4462,Kirana,East,33045
+4463,Wholesale,South,88809
+4464,Convenience,North,67947
+4465,Wholesale,South,65231
+4466,Wholesale,East,46143
+4467,Wholesale,North,39210
+4468,Modern Trade,East,29231
+4469,Kirana,North,11018
+4470,Kirana,North,54592
+4471,Modern Trade,West,21136
+4472,Modern Trade,West,60537
+4473,Kirana,West,4299
+4474,Wholesale,North,13191
+4475,Convenience,South,66393
+4476,Convenience,East,89081
+4477,Convenience,East,60193
+4478,Wholesale,East,15087
+4479,Kirana,West,70093
+4480,Modern Trade,North,16095
+4481,Kirana,West,70640
+4482,Wholesale,South,12163
+4483,Modern Trade,North,23398
+4484,Wholesale,East,1507
+4485,Convenience,West,13058
+4486,Convenience,West,54218
+4487,Wholesale,South,116745
+4488,Modern Trade,South,73817
+4489,Modern Trade,West,58618
+4490,Kirana,South,7713
+4491,Convenience,East,23721
+4492,Kirana,South,99654
+4493,Kirana,South,34673
+4494,Wholesale,West,10613
+4495,Wholesale,West,23620
+4496,Kirana,North,3315
+4497,Convenience,North,63071
+4498,Wholesale,West,8655
+4499,Kirana,South,33436
+4500,Kirana,South,10264
+4501,Kirana,North,38273
+4502,Kirana,North,60633
+4503,Kirana,North,21299
+4504,Kirana,East,82544
+4505,Wholesale,East,56220
+4506,Convenience,North,49545
+4507,Kirana,South,80721
+4508,Modern Trade,North,38793
+4509,Wholesale,East,24973
+4510,Wholesale,South,44857
+4511,Kirana,East,10907
+4512,Wholesale,South,64843
+4513,Kirana,East,64903
+4514,Convenience,South,27886
+4515,Convenience,South,20058
+4516,Wholesale,South,39612
+4517,Wholesale,South,9261
+4518,Modern Trade,West,24503
+4519,Wholesale,East,77861
+4520,Modern Trade,East,13275
+4521,Convenience,West,85167
+4522,Convenience,South,46549
+4523,Kirana,South,51028
+4524,Convenience,East,20333
+4525,Modern Trade,West,15262
+4526,Wholesale,South,26784
+4527,Kirana,South,102311
+4528,Modern Trade,South,19376
+4529,Wholesale,North,2565
+4530,Kirana,West,36514
+4531,Convenience,South,74431
+4532,Modern Trade,North,39935
+4533,Wholesale,West,106926
+4534,Kirana,South,53796
+4535,Kirana,East,40328
+4536,Convenience,North,26499
+4537,Wholesale,North,49044
+4538,Convenience,South,7316
+4539,Convenience,South,102441
+4540,Wholesale,North,60785
+4541,Wholesale,East,60542
+4542,Wholesale,East,32315
+4543,Modern Trade,West,83532
+4544,Wholesale,South,28851
+4545,Kirana,East,21501
+4546,Convenience,West,34903
+4547,Modern Trade,East,62249
+4548,Wholesale,South,18407
+4549,Modern Trade,West,15767
+4550,Wholesale,West,15221
+4551,Modern Trade,West,22835
+4552,Convenience,East,66633
+4553,Convenience,South,38415
+4554,Kirana,West,11381
+4555,Kirana,North,141849
+4556,Wholesale,South,9736
+4557,Convenience,North,22979
+4558,Modern Trade,North,14665
+4559,Modern Trade,West,18849
+4560,Modern Trade,West,35212
+4561,Kirana,East,28125
+4562,Modern Trade,East,16928
+4563,Kirana,East,42467
+4564,Kirana,South,47300
+4565,Wholesale,East,53644
+4566,Modern Trade,North,35649
+4567,Modern Trade,East,45862
+4568,Convenience,West,52714
+4569,Wholesale,East,19158
+4570,Convenience,South,120294
+4571,Wholesale,South,99943
+4572,Modern Trade,North,61594
+4573,Kirana,South,25121
+4574,Kirana,East,4371
+4575,Kirana,West,5769
+4576,Kirana,South,26750
+4577,Kirana,North,100449
+4578,Convenience,East,29087
+4579,Wholesale,North,14481
+4580,Modern Trade,South,15338
+4581,Convenience,South,99018
+4582,Wholesale,North,27215
+4583,Kirana,East,95028
+4584,Wholesale,South,13719
+4585,Wholesale,West,16069
+4586,Kirana,South,22370
+4587,Kirana,East,48218
+4588,Kirana,South,56931
+4589,Modern Trade,North,17890
+4590,Kirana,South,19901
+4591,Modern Trade,South,8167
+4592,Kirana,East,7869
+4593,Modern Trade,North,14784
+4594,Wholesale,East,88904
+4595,Convenience,South,14588
+4596,Wholesale,West,35780
+4597,Wholesale,South,24792
+4598,Kirana,East,13595
+4599,Modern Trade,West,51788
+4600,Convenience,East,20430
+4601,Kirana,East,63842
+4602,Kirana,North,65211
+4603,Kirana,West,21167
+4604,Wholesale,South,57942
+4605,Modern Trade,East,57748
+4606,Modern Trade,South,26141
+4607,Convenience,North,23424
+4608,Modern Trade,North,42571
+4609,Modern Trade,West,114355
+4610,Kirana,North,73956
+4611,Kirana,North,35124
+4612,Wholesale,South,4360
+4613,Kirana,North,32372
+4614,Kirana,North,4283
+4615,Kirana,East,6814
+4616,Kirana,North,16621
+4617,Wholesale,East,35831
+4618,Kirana,North,18466
+4619,Convenience,North,78975
+4620,Convenience,West,32564
+4621,Convenience,West,19176
+4622,Convenience,East,54721
+4623,Kirana,North,17319
+4624,Convenience,South,36503
+4625,Kirana,West,1992
+4626,Wholesale,South,17063
+4627,Convenience,West,75487
+4628,Modern Trade,West,46432
+4629,Convenience,North,39639
+4630,Convenience,West,51951
+4631,Kirana,South,75924
+4632,Convenience,West,32039
+4633,Modern Trade,East,21176
+4634,Kirana,North,57531
+4635,Kirana,North,28001
+4636,Wholesale,East,20790
+4637,Wholesale,East,25230
+4638,Convenience,East,46247
+4639,Wholesale,West,5196
+4640,Wholesale,North,46858
+4641,Wholesale,East,11906
+4642,Kirana,West,18378
+4643,Kirana,East,9219
+4644,Kirana,South,53469
+4645,Wholesale,South,39749
+4646,Kirana,North,11944
+4647,Wholesale,West,59655
+4648,Kirana,South,6924
+4649,Kirana,South,23992
+4650,Modern Trade,West,8656
+4651,Convenience,East,28580
+4652,Wholesale,West,20807
+4653,Modern Trade,East,10755
+4654,Kirana,South,32899
+4655,Wholesale,South,12791
+4656,Kirana,South,2859
+4657,Convenience,North,6651
+4658,Modern Trade,North,23657
+4659,Convenience,North,26456
+4660,Modern Trade,West,15906
+4661,Kirana,South,85725
+4662,Convenience,South,41962
+4663,Convenience,West,44404
+4664,Kirana,North,14479
+4665,Convenience,West,12863
+4666,Wholesale,North,37740
+4667,Modern Trade,South,26109
+4668,Modern Trade,East,40401
+4669,Modern Trade,North,25832
+4670,Wholesale,South,55079
+4671,Modern Trade,South,33147
+4672,Kirana,East,28609
+4673,Convenience,South,47061
+4674,Wholesale,South,93728
+4675,Modern Trade,North,52757
+4676,Kirana,North,10003
+4677,Convenience,East,27942
+4678,Convenience,East,28689
+4679,Wholesale,South,41202
+4680,Wholesale,North,23531
+4681,Wholesale,East,32386
+4682,Kirana,East,34418
+4683,Kirana,West,39601
+4684,Wholesale,East,9944
+4685,Modern Trade,South,11367
+4686,Convenience,North,113114
+4687,Convenience,East,3837
+4688,Kirana,West,34125
+4689,Convenience,North,52738
+4690,Modern Trade,East,13490
+4691,Convenience,West,73729
+4692,Kirana,East,33356
+4693,Kirana,North,95730
+4694,Modern Trade,North,14679
+4695,Modern Trade,North,28195
+4696,Convenience,South,21729
+4697,Convenience,East,19273
+4698,Kirana,South,20258
+4699,Modern Trade,North,24951
+4700,Modern Trade,West,23437
+4701,Modern Trade,East,57102
+4702,Convenience,South,53865
+4703,Modern Trade,East,7347
+4704,Kirana,West,20236
+4705,Kirana,South,42737
+4706,Convenience,North,39892
+4707,Wholesale,South,27023
+4708,Convenience,East,32285
+4709,Wholesale,East,23954
+4710,Modern Trade,East,60670
+4711,Convenience,East,56153
+4712,Kirana,North,25566
+4713,Modern Trade,South,31080
+4714,Kirana,North,25641
+4715,Modern Trade,North,29076
+4716,Convenience,North,67142
+4717,Wholesale,East,23435
+4718,Modern Trade,East,19419
+4719,Wholesale,East,30913
+4720,Modern Trade,South,25431
+4721,Kirana,West,17041
+4722,Kirana,East,51017
+4723,Modern Trade,South,55046
+4724,Wholesale,East,35610
+4725,Convenience,East,18603
+4726,Convenience,North,60916
+4727,Kirana,North,10865
+4728,Convenience,North,27308
+4729,Kirana,South,110726
+4730,Convenience,West,36237
+4731,Modern Trade,West,24576
+4732,Kirana,South,44412
+4733,Kirana,East,44372
+4734,Modern Trade,South,72137
+4735,Kirana,East,16020
+4736,Convenience,South,45531
+4737,Convenience,South,30886
+4738,Kirana,South,33843
+4739,Convenience,West,30013
+4740,Wholesale,North,29623
+4741,Kirana,South,7484
+4742,Modern Trade,West,22540
+4743,Wholesale,North,30212
+4744,Kirana,North,41455
+4745,Modern Trade,South,34031
+4746,Convenience,East,33040
+4747,Modern Trade,East,48337
+4748,Wholesale,East,81163
+4749,Convenience,South,27180
+4750,Kirana,East,15813
+4751,Convenience,West,60437
+4752,Kirana,West,45185
+4753,Kirana,West,25565
+4754,Modern Trade,West,61631
+4755,Modern Trade,North,15358
+4756,Modern Trade,West,27350
+4757,Wholesale,East,24875
+4758,Wholesale,South,63723
+4759,Modern Trade,East,39378
+4760,Wholesale,West,11572
+4761,Convenience,North,134384
+4762,Convenience,West,47026
+4763,Wholesale,South,18386
+4764,Wholesale,East,77118
+4765,Convenience,South,31915
+4766,Kirana,South,28595
+4767,Convenience,South,29972
+4768,Convenience,East,31660
+4769,Wholesale,West,30901
+4770,Convenience,South,28858
+4771,Wholesale,East,20975
+4772,Wholesale,North,17250
+4773,Modern Trade,East,35939
+4774,Convenience,North,17533
+4775,Kirana,East,40360
+4776,Modern Trade,West,74623
+4777,Wholesale,South,31566
+4778,Wholesale,West,37142
+4779,Kirana,East,63853
+4780,Wholesale,South,26966
+4781,Convenience,North,20000
+4782,Modern Trade,East,1975
+4783,Wholesale,South,34779
+4784,Wholesale,North,20193
+4785,Kirana,North,25503
+4786,Convenience,West,3602
+4787,Wholesale,East,25449
+4788,Kirana,North,12036
+4789,Wholesale,South,9992
+4790,Kirana,North,13548
+4791,Kirana,North,12130
+4792,Convenience,West,56838
+4793,Wholesale,West,66215
+4794,Convenience,South,35229
+4795,Kirana,West,94304
+4796,Modern Trade,North,24413
+4797,Wholesale,North,15239
+4798,Modern Trade,West,30269
+4799,Wholesale,North,13801
+4800,Convenience,North,32701
+4801,Convenience,South,49232
+4802,Convenience,West,13570
+4803,Convenience,North,82222
+4804,Convenience,West,115141
+4805,Modern Trade,South,101695
+4806,Convenience,West,5131
+4807,Kirana,North,21084
+4808,Kirana,West,38590
+4809,Modern Trade,North,8757
+4810,Wholesale,North,9645
+4811,Kirana,North,4669
+4812,Wholesale,South,32509
+4813,Modern Trade,West,40506
+4814,Wholesale,South,64150
+4815,Wholesale,West,45146
+4816,Wholesale,South,50510
+4817,Wholesale,East,6191
+4818,Modern Trade,North,37537
+4819,Kirana,North,29598
+4820,Convenience,South,18194
+4821,Wholesale,East,23363
+4822,Kirana,North,40686
+4823,Kirana,West,52642
+4824,Modern Trade,South,105697
+4825,Kirana,North,42389
+4826,Modern Trade,North,56476
+4827,Wholesale,South,55127
+4828,Wholesale,South,66736
+4829,Convenience,West,11950
+4830,Convenience,West,33194
+4831,Convenience,North,14290
+4832,Kirana,North,15146
+4833,Wholesale,South,43311
+4834,Modern Trade,North,43813
+4835,Convenience,North,42073
+4836,Modern Trade,South,19812
+4837,Modern Trade,North,33934
+4838,Convenience,North,25408
+4839,Wholesale,East,42015
+4840,Convenience,West,65396
+4841,Modern Trade,South,13616
+4842,Convenience,East,31260
+4843,Modern Trade,West,56447
+4844,Modern Trade,West,6846
+4845,Convenience,West,60074
+4846,Kirana,East,3374
+4847,Convenience,East,11906
+4848,Kirana,West,30121
+4849,Modern Trade,North,24827
+4850,Modern Trade,North,22528
+4851,Kirana,East,99845
+4852,Modern Trade,East,10515
+4853,Kirana,East,44527
+4854,Kirana,West,102395
+4855,Modern Trade,North,57599
+4856,Wholesale,East,40932
+4857,Kirana,East,37373
+4858,Convenience,South,22317
+4859,Convenience,West,21002
+4860,Modern Trade,South,8631
+4861,Wholesale,North,62782
+4862,Modern Trade,South,9527
+4863,Wholesale,South,29609
+4864,Kirana,South,24258
+4865,Kirana,West,36059
+4866,Kirana,North,48926
+4867,Kirana,South,21753
+4868,Convenience,West,11848
+4869,Convenience,North,17532
+4870,Modern Trade,East,14055
+4871,Wholesale,South,104186
+4872,Kirana,North,74891
+4873,Kirana,South,8365
+4874,Wholesale,East,24508
+4875,Wholesale,North,13508
+4876,Modern Trade,West,17866
+4877,Wholesale,North,19963
+4878,Kirana,West,14902
+4879,Kirana,North,58947
+4880,Kirana,West,40011
+4881,Kirana,East,37738
+4882,Kirana,East,80501
+4883,Modern Trade,East,56149
+4884,Kirana,North,31781
+4885,Modern Trade,East,38340
+4886,Kirana,South,62631
+4887,Convenience,East,59850
+4888,Convenience,West,2604
+4889,Convenience,West,43302
+4890,Convenience,West,33836
+4891,Modern Trade,North,50757
+4892,Modern Trade,South,5070
+4893,Wholesale,East,66433
+4894,Kirana,South,52863
+4895,Convenience,South,23396
+4896,Modern Trade,West,94385
+4897,Kirana,West,11707
+4898,Kirana,West,36636
+4899,Modern Trade,North,19687
+4900,Convenience,South,16273
+4901,Wholesale,South,29382
+4902,Kirana,North,5608
+4903,Wholesale,North,52882
+4904,Convenience,North,143495
+4905,Convenience,South,11296
+4906,Wholesale,South,79647
+4907,Convenience,West,63865
+4908,Kirana,West,7383
+4909,Wholesale,South,10601
+4910,Convenience,West,36131
+4911,Wholesale,North,50674
+4912,Kirana,East,67604
+4913,Convenience,West,30202
+4914,Kirana,South,32875
+4915,Convenience,West,8410
+4916,Modern Trade,West,80107
+4917,Convenience,West,64779
+4918,Wholesale,East,45522
+4919,Convenience,North,31099
+4920,Kirana,South,79519
+4921,Kirana,East,11111
+4922,Convenience,South,38251
+4923,Wholesale,South,106110
+4924,Modern Trade,South,10926
+4925,Wholesale,East,123348
+4926,Modern Trade,North,61623
+4927,Kirana,South,52041
+4928,Wholesale,North,78162
+4929,Modern Trade,North,68392
+4930,Convenience,West,7323
+4931,Kirana,East,7045
+4932,Convenience,East,20373
+4933,Kirana,West,41024
+4934,Wholesale,West,71217
+4935,Wholesale,North,26304
+4936,Kirana,South,16403
+4937,Kirana,East,59037
+4938,Kirana,South,25465
+4939,Wholesale,South,42904
+4940,Modern Trade,West,32494
+4941,Convenience,South,17237
+4942,Convenience,North,17967
+4943,Wholesale,West,10942
+4944,Convenience,South,73396
+4945,Kirana,West,23000
+4946,Modern Trade,North,16675
+4947,Convenience,North,5021
+4948,Modern Trade,South,3929
+4949,Kirana,West,11662
+4950,Convenience,South,42440
+4951,Wholesale,South,33512
+4952,Modern Trade,West,24941
+4953,Kirana,South,11740
+4954,Modern Trade,North,4472
+4955,Convenience,West,16873
+4956,Convenience,West,25248
+4957,Wholesale,West,53753
+4958,Kirana,West,7591
+4959,Kirana,South,23607
+4960,Wholesale,South,11253
+4961,Wholesale,North,19829
+4962,Kirana,East,118881
+4963,Modern Trade,East,13971
+4964,Modern Trade,North,11630
+4965,Wholesale,East,170478
+4966,Modern Trade,North,49127
+4967,Kirana,South,46579
+4968,Convenience,West,14602
+4969,Convenience,West,117345
+4970,Modern Trade,South,8147
+4971,Wholesale,West,67901
+4972,Wholesale,West,74400
+4973,Wholesale,East,85867
+4974,Wholesale,South,92704
+4975,Wholesale,East,26161
+4976,Modern Trade,East,40253
+4977,Convenience,West,33554
+4978,Convenience,West,12662
+4979,Modern Trade,South,24819
+4980,Wholesale,West,74506
+4981,Modern Trade,West,8713
+4982,Convenience,South,57856
+4983,Kirana,West,59805
+4984,Modern Trade,East,34703
+4985,Wholesale,South,62158
+4986,Convenience,West,13028
+4987,Convenience,North,11026
+4988,Convenience,South,22717
+4989,Convenience,South,41339
+4990,Wholesale,North,111595
+4991,Kirana,West,34588
+4992,Convenience,West,22942
+4993,Modern Trade,South,72588
+4994,Kirana,South,9365
+4995,Convenience,West,7583
+4996,Kirana,West,113034
+4997,Modern Trade,East,16498
+4998,Convenience,South,87210
+4999,Modern Trade,South,80094
+5000,Wholesale,North,64140
